@@ -1,0 +1,14 @@
+{
+  "user": {
+    "name": "Marten",
+    "role": "Engineering",
+    "company": "GHX",
+    "companySize": "enterprise",
+    "pillars": [
+      "Build world class engineering org with agile, autonomous teams",
+      "Exchange platform architecture vision and improvements",
+      "AI-native software development process"
+    ]
+  },
+  "createdAt": "2026-04-09"
+}

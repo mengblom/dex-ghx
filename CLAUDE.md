@@ -73,12 +73,15 @@ The system automatically suggests `/getting-started` at next session if vault < 
 ## User Profile
 
 <!-- Updated during onboarding -->
-**Name:** Not yet configured
-**Role:** Not yet configured
-**Company Size:** Not yet configured
-**Working Style:** Not yet configured
+**Name:** Marten
+**Role:** Engineering Leader at GHX
+**Company Size:** Enterprise (1,000-10,000 people)
+**Company:** GHX (Global Healthcare Exchange) - Healthcare supply chain management platform
+**Background:** 25+ years experience, previously led payments engineering at Spotify, completed ML certifications, active in AI coding tools
 **Pillars:**
-- Not yet configured
+- Build world class engineering org with agile, autonomous teams
+- Exchange platform architecture vision and improvements
+- AI-native software development process
 
 ---
 
