@@ -78,7 +78,7 @@
 - [ ] Calendar connected (via Calendar MCP)
 - [ ] Calendar synced daily
 - [ ] Granola connected (via Granola MCP)
-- [ ] Obsidian enabled (`/dex-obsidian-setup`)
+- [x] Obsidian enabled (`/dex-obsidian-setup`)
 - [ ] ScreenPipe enabled (`/screenpipe-setup`)
 - [ ] ScreenPipe used (`/screen-recall` or `/screen-summary`)
 - [ ] MCP added (`/dex-add-mcp`)
