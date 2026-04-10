@@ -1,0 +1,29 @@
+- Writing code
+- Mentoring team
+- 4-5 Microservices
+- Process
+    - Reqs by stakeholder
+    - BRP (Business Requirement Process) Session
+    - Coordinate with PO and architect team
+    - PO writes high level stories
+    - I write technical details
+    - Size and split story into sub stories
+    - Deployments ~monthly
+    - QA works with PO to understand requirements
+- Architecture
+    - API
+    - Oracle
+      
+    
+- Messaging
+    - Deadlettering
+- Infra
+    - On prem -\> EC2
+    - Later… Fargate
+- IC vs Mgmt
+- Superpower
+    - Accountability
+    - Microservices
+        - 15 factor pattern
+    - SQL
+-

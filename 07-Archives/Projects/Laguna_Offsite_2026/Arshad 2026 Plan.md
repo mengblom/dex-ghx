@@ -1,0 +1,11 @@
+- After initial assessment, asked for 54 HC
+    - Pushback on budget
+    - CJ wanted to start with Exchange
+- Exchange
+    - Some level of CI/CD
+    - Lots of drift between environments
+    - Lots of inconsistencies between deployment pipelines
+    - "No testing automation"
+        - They are exploring Playright
+        - 2-60% unit test coverage
+        -

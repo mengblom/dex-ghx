@@ -1,0 +1,231 @@
+
+# Migration Report
+Generated: 2026-04-10 15:30:52
+
+## Summary
+- Total files migrated: 214
+- People pages created: 199
+- Errors encountered: 0
+
+## File Type Breakdown
+- daily_note: 2 files
+- inbox: 13 files
+- management: 4 files
+- meeting: 85 files
+- other: 28 files
+- planning: 29 files
+- project: 6 files
+- recruiting: 47 files
+
+
+## People Created
+- Annie Leong → 05-Areas/People/Internal/Annie_Leong.md
+- Prashanth Garlapati → 05-Areas/People/Internal/Prashanth_Garlapati.md
+- Brian Moran → 05-Areas/People/Internal/Brian_Moran.md
+- Laura Taylor → 05-Areas/People/Internal/Laura_Taylor.md
+- Ramesh Donnipadu → 05-Areas/People/Internal/Ramesh_Donnipadu.md
+- Matthew D. Gibson → 05-Areas/People/Internal/Matthew_D._Gibson.md
+- Jaimin Shah → 05-Areas/People/Internal/Jaimin_Shah.md
+- Alexis Hull-Stone → 05-Areas/People/Internal/Alexis_Hull-Stone.md
+- Radha Krishna Mannemala → 05-Areas/People/Internal/Radha_Krishna_Mannemala.md
+- Glenn Sorensen → 05-Areas/People/Internal/Glenn_Sorensen.md
+- Leela Mohan Macharla → 05-Areas/People/Internal/Leela_Mohan_Macharla.md
+- Hari Prasad Narasapu → 05-Areas/People/Internal/Hari_Prasad_Narasapu.md
+- Michael Mitchell → 05-Areas/People/Internal/Michael_Mitchell.md
+- Daniel Milburn → 05-Areas/People/Internal/Daniel_Milburn.md
+- CJ Singh → 05-Areas/People/Internal/CJ_Singh.md
+- Curtis Nielsen → 05-Areas/People/Internal/Curtis_Nielsen.md
+- Marlin Doner → 05-Areas/People/Internal/Marlin_Doner.md
+- Zachary Knarr → 05-Areas/People/Internal/Zachary_Knarr.md
+- Arshad Mahammad → 05-Areas/People/Internal/Arshad_Mahammad.md
+- Jude Shelton Nevis → 05-Areas/People/Internal/Jude_Shelton_Nevis.md
+- Lindsey Wallace → 05-Areas/People/Internal/Lindsey_Wallace.md
+- Bryan Loughry → 05-Areas/People/Internal/Bryan_Loughry.md
+- Thiyagarajan Murugan → 05-Areas/People/Internal/Thiyagarajan_Murugan.md
+- Graham Gilmour → 05-Areas/People/Internal/Graham_Gilmour.md
+- Donald Bell → 05-Areas/People/Internal/Donald_Bell.md
+- Paul Bobbitt → 05-Areas/People/Internal/Paul_Bobbitt.md
+- Ravi Patel → 05-Areas/People/Internal/Ravi_Patel.md
+- Prathibadevi Thiagarajan → 05-Areas/People/Internal/Prathibadevi_Thiagarajan.md
+- Shaun Janicki → 05-Areas/People/Internal/Shaun_Janicki.md
+- Balaji Venkata Narasimhan → 05-Areas/People/Internal/Balaji_Venkata_Narasimhan.md
+- Jamie Collins → 05-Areas/People/Internal/Jamie_Collins.md
+- Mark Savastano → 05-Areas/People/Internal/Mark_Savastano.md
+- Uday Madhyala → 05-Areas/People/Internal/Uday_Madhyala.md
+- Alexa Swihart → 05-Areas/People/Internal/Alexa_Swihart.md
+- Kevin Bobbitt → 05-Areas/People/Internal/Kevin_Bobbitt.md
+- Lydia Holmstrand → 05-Areas/People/Internal/Lydia_Holmstrand.md
+- Kyle Way → 05-Areas/People/Internal/Kyle_Way.md
+- Brandon J. Jolly → 05-Areas/People/Internal/Brandon_J._Jolly.md
+- Boris Blankenstein → 05-Areas/People/Internal/Boris_Blankenstein.md
+- Eric Arrington → 05-Areas/People/Internal/Eric_Arrington.md
+- Michael Katzenbach → 05-Areas/People/Internal/Michael_Katzenbach.md
+- Hannah Bentley → 05-Areas/People/Internal/Hannah_Bentley.md
+- Daniel Tench → 05-Areas/People/Internal/Daniel_Tench.md
+- René Gand → 05-Areas/People/Internal/René_Gand.md
+- Michael Rauner → 05-Areas/People/Internal/Michael_Rauner.md
+- Pete Ferguson → 05-Areas/People/Internal/Pete_Ferguson.md
+- Tim Shanahan → 05-Areas/People/Internal/Tim_Shanahan.md
+- Ali Inam → 05-Areas/People/Internal/Ali_Inam.md
+- Camron Moore → 05-Areas/People/Internal/Camron_Moore.md
+- Eric Wehler → 05-Areas/People/Internal/Eric_Wehler.md
+- Jonathan Fitch → 05-Areas/People/Internal/Jonathan_Fitch.md
+- Matthew Turner → 05-Areas/People/Internal/Matthew_Turner.md
+- Nicholas Portillo → 05-Areas/People/Internal/Nicholas_Portillo.md
+- Thien La → 05-Areas/People/Internal/Thien_La.md
+- Vik Vasudeva → 05-Areas/People/Internal/Vik_Vasudeva.md
+- Will Emmel → 05-Areas/People/Internal/Will_Emmel.md
+- Gregory Bank → 05-Areas/People/Internal/Gregory_Bank.md
+- Amanda Burkett → 05-Areas/People/Internal/Amanda_Burkett.md
+- Mike Lusche → 05-Areas/People/Internal/Mike_Lusche.md
+- Valerie White → 05-Areas/People/Internal/Valerie_White.md
+- Anand Nayak → 05-Areas/People/Internal/Anand_Nayak.md
+- Nathan Letcher → 05-Areas/People/Internal/Nathan_Letcher.md
+- Nattawut Ngampatipatpong → 05-Areas/People/Internal/Nattawut_Ngampatipatpong.md
+- Suresh Kumar → 05-Areas/People/Internal/Suresh_Kumar.md
+- Munib Ali → 05-Areas/People/Internal/Munib_Ali.md
+- Eric Steele → 05-Areas/People/Internal/Eric_Steele.md
+- Nilesh Korpad → 05-Areas/People/Internal/Nilesh_Korpad.md
+- Dilip Gandham → 05-Areas/People/Internal/Dilip_Gandham.md
+- Dhaval Shah → 05-Areas/People/Internal/Dhaval_Shah.md
+- Duy Nguyen → 05-Areas/People/Internal/Duy_Nguyen.md
+- Doug Weber → 05-Areas/People/Internal/Doug_Weber.md
+- Jeff Sherard → 05-Areas/People/Internal/Jeff_Sherard.md
+- Scott Woodrich → 05-Areas/People/Internal/Scott_Woodrich.md
+- Bharat Sharma → 05-Areas/People/Internal/Bharat_Sharma.md
+- Gregg Starkel → 05-Areas/People/Internal/Gregg_Starkel.md
+- Nicole Cesa → 05-Areas/People/Internal/Nicole_Cesa.md
+- Seth Hudman → 05-Areas/People/Internal/Seth_Hudman.md
+- Tristan Nunn → 05-Areas/People/Internal/Tristan_Nunn.md
+- Tomas Bojda → 05-Areas/People/Internal/Tomas_Bojda.md
+- Ian MacLaughlin → 05-Areas/People/Internal/Ian_MacLaughlin.md
+- Kaka Bala Sai Krishna → 05-Areas/People/Internal/Kaka_Bala_Sai_Krishna.md
+- Erik Huybrechts → 05-Areas/People/Internal/Erik_Huybrechts.md
+- Mark Ford → 05-Areas/People/Internal/Mark_Ford.md
+- Gaurav Saini → 05-Areas/People/Internal/Gaurav_Saini.md
+- Rishitha Musunuri → 05-Areas/People/Internal/Rishitha_Musunuri.md
+- Tasha Reynolds → 05-Areas/People/Internal/Tasha_Reynolds.md
+- Taylor Hammond → 05-Areas/People/Internal/Taylor_Hammond.md
+- Divya Bhatia → 05-Areas/People/Internal/Divya_Bhatia.md
+- Sarah Ridgway → 05-Areas/People/Internal/Sarah_Ridgway.md
+- Sneha Das → 05-Areas/People/Internal/Sneha_Das.md
+- Jennifer Hagaman → 05-Areas/People/Internal/Jennifer_Hagaman.md
+- Mayank Gaur → 05-Areas/People/Internal/Mayank_Gaur.md
+- Deepika Rani → 05-Areas/People/Internal/Deepika_Rani.md
+- Chantell Markert → 05-Areas/People/Internal/Chantell_Markert.md
+- Ankur Singh → 05-Areas/People/Internal/Ankur_Singh.md
+- Laura Voegerl → 05-Areas/People/Internal/Laura_Voegerl.md
+- Michal Seligson → 05-Areas/People/Internal/Michal_Seligson.md
+- Swastik Bihani → 05-Areas/People/Internal/Swastik_Bihani.md
+- Sandra Chronister → 05-Areas/People/Internal/Sandra_Chronister.md
+- Gururaj N → 05-Areas/People/Internal/Gururaj_N.md
+- Gregory Wilson → 05-Areas/People/Internal/Gregory_Wilson.md
+- Pratik Panchal → 05-Areas/People/Internal/Pratik_Panchal.md
+- Michael Knarr → 05-Areas/People/Internal/Michael_Knarr.md
+- Philippe Scoffie → 05-Areas/People/Internal/Philippe_Scoffie.md
+- Ben Ludkiewicz → 05-Areas/People/Internal/Ben_Ludkiewicz.md
+- Arivazhagan Jeganathan → 05-Areas/People/Internal/Arivazhagan_Jeganathan.md
+- Selvakumar Samiappan → 05-Areas/People/Internal/Selvakumar_Samiappan.md
+- Tapas Subhashis Kar → 05-Areas/People/Internal/Tapas_Subhashis_Kar.md
+- Jacob Norton → 05-Areas/People/Internal/Jacob_Norton.md
+- Ramesh Rangavithal Donnipadu → 05-Areas/People/Internal/Ramesh_Rangavithal_Donnipadu.md
+- Eswar Ram Govind Vaddi → 05-Areas/People/Internal/Eswar_Ram_Govind_Vaddi.md
+- Greg Thompson → 05-Areas/People/Internal/Greg_Thompson.md
+- Alyssa Kucky → 05-Areas/People/Internal/Alyssa_Kucky.md
+- Don Bell → 05-Areas/People/Internal/Don_Bell.md
+- Aaron Srivastava → 05-Areas/People/Internal/Aaron_Srivastava.md
+- Selvaganesh Mariappa Paramasivan → 05-Areas/People/Internal/Selvaganesh_Mariappa_Paramasivan.md
+- Rajesh Kannan K → 05-Areas/People/Internal/Rajesh_Kannan_K.md
+- Padmanabha Rao → 05-Areas/People/Internal/Padmanabha_Rao.md
+- Suresh Chettur → 05-Areas/People/Internal/Suresh_Chettur.md
+- Karthi Arumugam → 05-Areas/People/Internal/Karthi_Arumugam.md
+- Vignesh Arunachalam → 05-Areas/People/Internal/Vignesh_Arunachalam.md
+- Venmathi Vijayakumar → 05-Areas/People/Internal/Venmathi_Vijayakumar.md
+- Senthil Arunachalam → 05-Areas/People/Internal/Senthil_Arunachalam.md
+- Balaji Venkatesan → 05-Areas/People/Internal/Balaji_Venkatesan.md
+- Nicole Healy → 05-Areas/People/Internal/Nicole_Healy.md
+- Joe Comsti → 05-Areas/People/Internal/Joe_Comsti.md
+- Christine Zhou → 05-Areas/People/Internal/Christine_Zhou.md
+- Chris  Wandel → 05-Areas/People/Internal/Chris__Wandel.md
+- Praffulkumar Somani → 05-Areas/People/Internal/Praffulkumar_Somani.md
+- Vikas Bogelli → 05-Areas/People/Internal/Vikas_Bogelli.md
+- Mark McLean → 05-Areas/People/Internal/Mark_McLean.md
+- John White → 05-Areas/People/Internal/John_White.md
+- Nathan Teeter → 05-Areas/People/Internal/Nathan_Teeter.md
+- Srikanth Kalakonda → 05-Areas/People/Internal/Srikanth_Kalakonda.md
+- Akash Jaiswal → 05-Areas/People/Internal/Akash_Jaiswal.md
+- Johans Bautista → 05-Areas/People/Internal/Johans_Bautista.md
+- Ravindra Singh Rathore → 05-Areas/People/Internal/Ravindra_Singh_Rathore.md
+- Sheik Akbar Pasha → 05-Areas/People/Internal/Sheik_Akbar_Pasha.md
+- Gagantrisul Duddukuri → 05-Areas/People/Internal/Gagantrisul_Duddukuri.md
+- Inna Skoroda → 05-Areas/People/Internal/Inna_Skoroda.md
+- Julia Chernin → 05-Areas/People/Internal/Julia_Chernin.md
+- Rick Salcido → 05-Areas/People/Internal/Rick_Salcido.md
+- Aaqeeb Jawed → 05-Areas/People/Internal/Aaqeeb_Jawed.md
+- Brandon Fortunato → 05-Areas/People/Internal/Brandon_Fortunato.md
+- Erik Truby → 05-Areas/People/Internal/Erik_Truby.md
+- Mukesh Burnwal → 05-Areas/People/Internal/Mukesh_Burnwal.md
+- Mohammed Shaik → 05-Areas/People/Internal/Mohammed_Shaik.md
+- Tsolak Petrosian → 05-Areas/People/Internal/Tsolak_Petrosian.md
+- SUNEEL KUMAR Suneel → 05-Areas/People/Internal/SUNEEL_KUMAR_Suneel.md
+- Shakamuri Divya → 05-Areas/People/Internal/Shakamuri_Divya.md
+- Hemanth Kumar Gudipelli → 05-Areas/People/Internal/Hemanth_Kumar_Gudipelli.md
+- Jitendra Kumar Pradhan → 05-Areas/People/Internal/Jitendra_Kumar_Pradhan.md
+- Joe Gurney → 05-Areas/People/Internal/Joe_Gurney.md
+- Lee Charters → 05-Areas/People/Internal/Lee_Charters.md
+- Naidu Dasari Demudu → 05-Areas/People/Internal/Naidu_Dasari_Demudu.md
+- Nitin Sharma → 05-Areas/People/Internal/Nitin_Sharma.md
+- Piyush Srivastava → 05-Areas/People/Internal/Piyush_Srivastava.md
+- Rajasekhar Samanaboyana Guru → 05-Areas/People/Internal/Rajasekhar_Samanaboyana_Guru.md
+- Sandhya Neerukonda → 05-Areas/People/Internal/Sandhya_Neerukonda.md
+- Sujith Kumar Puligilla → 05-Areas/People/Internal/Sujith_Kumar_Puligilla.md
+- Seetha Vijay Kumar → 05-Areas/People/Internal/Seetha_Vijay_Kumar.md
+- Yu Chen → 05-Areas/People/Internal/Yu_Chen.md
+- Abhishek Adulapuram → 05-Areas/People/Internal/Abhishek_Adulapuram.md
+- Bryan Koo → 05-Areas/People/Internal/Bryan_Koo.md
+- Jitendra Anirudha Varma → 05-Areas/People/Internal/Jitendra_Anirudha_Varma.md
+- John Morris → 05-Areas/People/Internal/John_Morris.md
+- Michael Jaskiewicz → 05-Areas/People/Internal/Michael_Jaskiewicz.md
+- Nilesh Sanjay Korpad → 05-Areas/People/Internal/Nilesh_Sanjay_Korpad.md
+- Seshasai Yenumarla → 05-Areas/People/Internal/Seshasai_Yenumarla.md
+- Grandhi Sai Baba → 05-Areas/People/Internal/Grandhi_Sai_Baba.md
+- Suvro Dutta → 05-Areas/People/Internal/Suvro_Dutta.md
+- Allu Kanaka Lova Satish → 05-Areas/People/Internal/Allu_Kanaka_Lova_Satish.md
+- Dirk Carney → 05-Areas/People/Internal/Dirk_Carney.md
+- Greg Wilson → 05-Areas/People/Internal/Greg_Wilson.md
+- Joe Ozzello → 05-Areas/People/Internal/Joe_Ozzello.md
+- John Paul Jai → 05-Areas/People/Internal/John_Paul_Jai.md
+- Jon Jara → 05-Areas/People/Internal/Jon_Jara.md
+- Karthikeya Matta → 05-Areas/People/Internal/Karthikeya_Matta.md
+- May Hong → 05-Areas/People/Internal/May_Hong.md
+- Nathan Kessler → 05-Areas/People/Internal/Nathan_Kessler.md
+- Sean Kotze → 05-Areas/People/Internal/Sean_Kotze.md
+- Steve Kirkpatrick → 05-Areas/People/Internal/Steve_Kirkpatrick.md
+- Tim Will → 05-Areas/People/Internal/Tim_Will.md
+- Bill OConnor → 05-Areas/People/Internal/Bill_OConnor.md
+- Juhi Jaiswal → 05-Areas/People/Internal/Juhi_Jaiswal.md
+- Ramesh_org → 05-Areas/People/Internal/Ramesh_org.md
+- seshasai → 05-Areas/People/Internal/seshasai.md
+- Merupula praveen → 05-Areas/People/Internal/Merupula_praveen.md
+- Gajjala Aravinda Reddy → 05-Areas/People/Internal/Gajjala_Aravinda_Reddy.md
+- Gowtham Kumar R → 05-Areas/People/Internal/Gowtham_Kumar_R.md
+- Jangam Vivek → 05-Areas/People/Internal/Jangam_Vivek.md
+- Janani Manickavasagam → 05-Areas/People/Internal/Janani_Manickavasagam.md
+- Amjad Ali Khan → 05-Areas/People/Internal/Amjad_Ali_Khan.md
+- #EnhanceDeliveryTeam → 05-Areas/People/Internal/#EnhanceDeliveryTeam.md
+- Jen Hagaman → 05-Areas/People/Internal/Jen_Hagaman.md
+- R Gowtham Kumar → 05-Areas/People/Internal/R_Gowtham_Kumar.md
+- Chinnapareddy Mastan Reddy → 05-Areas/People/Internal/Chinnapareddy_Mastan_Reddy.md
+- Mohan Korubilli → 05-Areas/People/Internal/Mohan_Korubilli.md
+- TARUN REVU → 05-Areas/People/Internal/TARUN_REVU.md
+
+
+## Next Steps
+1. Review migrated files in Obsidian
+2. Check person pages in 05-Areas/People/Internal/
+3. Run wiki link conversion: `node .scripts/auto-link-people.cjs --today`
+4. Verify project structure in 04-Projects/
+5. Run git commit to save migration
+
+## Full Migration Log
+See: System/migration-log.json

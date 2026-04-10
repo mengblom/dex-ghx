@@ -1,0 +1,29 @@
+- Engineering background, including ability to understand technical architecture and implementation at code level  
+- Thorough understanding of, and support for, Agile development methodologies  
+- Ability to handle multiple concurrent projects  
+- Ability to effectively communicate across organizational levels and with a variety of stakeholders, including the ability to communicate technical concepts to technical and non-technical audiences  
+- Ability to think strategically  
+- Ability to make difficult decisions and to drive decisions into actuality  
+- Ability to understand and effectively explain up and downstream product, team, and organizational impacts  
+- Ability to constructively challenge the status quo and to iterate and improve across multiple business domains  
+- Ability to adapt to changing conditions and lead others through change  
+- Leadership and mentoring skills including the ability to lead by example, promoting a common purpose and serving as a catalyst for success  
+- Demonstrate emotional maturity and a positive outlook.  
+- Demonstrated analytical, organizational, prioritization, and time management skills  
+- Key Differentiators
+- Being proactive. Hungry to build teams and deliver awesome solutions.  
+- Experience with distributed systems with complicated problem sets  
+- Data visualization experience  
+- Agile certifications  
+- Ability and willingness to travel to remote offices and partners, including international travel up to 4 weeks per year  
+- Qualifications
+- Degree in Computer Science or related field, or equivalent experience  
+- 3+ years of prior software development management experience  
+- Hands-on experience with container orchestration and deployment.  
+- Experience being the technical lead on a team that produces high quality deliverables  
+- Proven ability to mentor engineers and conduct thoughtful, constructive code reviews.  
+- Excellent understanding of Agile development processes and the ability to champion them with the team.  
+- (Preferred) Familiarity with Infrastructure as code (Terraform or Cloud Formation)  
+- (Preferred) Familiarity with AWS Step Functions, or serverless orchestration patterns.  
+- (Preferred) Knowledge of observability tools.  
+- (Preferred) Prior work in a distributed global development team.

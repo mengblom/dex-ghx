@@ -1,0 +1,1876 @@
+{
+  "files_moved": [
+    {
+      "source": "Garry Tan\u2019s Claude Code setup.md",
+      "target": "00-Inbox/Ideas/Garry Tan\u2019s Claude Code setup.md",
+      "type": "other"
+    },
+    {
+      "source": "Day.md",
+      "target": "00-Inbox/Ideas/Day.md",
+      "type": "other"
+    },
+    {
+      "source": "Call with CJ.md",
+      "target": "00-Inbox/Meetings/Call with CJ.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Exchange - Building Autonomous Teams.md",
+      "target": "00-Inbox/Ideas/Exchange - Building Autonomous Teams.md",
+      "type": "other"
+    },
+    {
+      "source": "Changes to Hiring Process.md",
+      "target": "00-Inbox/Ideas/Changes to Hiring Process.md",
+      "type": "other"
+    },
+    {
+      "source": "Provisioning Summary- Aaron Srivastava-2026-03-23.md",
+      "target": "00-Inbox/Ideas/Provisioning Summary- Aaron Srivastava-2026-03-23.md",
+      "type": "other"
+    },
+    {
+      "source": "February 2026 MBR Prep.md",
+      "target": "00-Inbox/Ideas/February 2026 MBR Prep.md",
+      "type": "other"
+    },
+    {
+      "source": "Q1 Fire Drill.md",
+      "target": "00-Inbox/Ideas/Q1 Fire Drill.md",
+      "type": "other"
+    },
+    {
+      "source": "Audit Mongo DB Status & Update to CJ.md",
+      "target": "00-Inbox/Ideas/Audit Mongo DB Status & Update to CJ.md",
+      "type": "other"
+    },
+    {
+      "source": "Monolith - SDLC and Delivery Speed Impact.md",
+      "target": "00-Inbox/Ideas/Monolith - SDLC and Delivery Speed Impact.md",
+      "type": "other"
+    },
+    {
+      "source": "2026-02-27 09.00 Working Session  DecouplingMigrating 'Base Invoices' from MEX.md",
+      "target": "00-Inbox/Meetings/2026-02-27 - Working Session : Decoupling/Migrating 'Base Invoices' from MEX.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Feedback from CJ.md",
+      "target": "00-Inbox/Ideas/Feedback from CJ.md",
+      "type": "other"
+    },
+    {
+      "source": "Sync with MongoDB Support.md",
+      "target": "00-Inbox/Meetings/Sync with MongoDB Support.md",
+      "type": "meeting"
+    },
+    {
+      "source": "CLAUDE.md",
+      "target": "00-Inbox/Ideas/CLAUDE.md",
+      "type": "other"
+    },
+    {
+      "source": "Audit DB Issues.md",
+      "target": "00-Inbox/Ideas/Audit DB Issues.md",
+      "type": "other"
+    },
+    {
+      "source": "EOD Update - Mongo DB Atlas Downgrade.md",
+      "target": "00-Inbox/Ideas/EOD Update - Mongo DB Atlas Downgrade.md",
+      "type": "other"
+    },
+    {
+      "source": "Planning/New Vision - The North Star.md",
+      "target": "02-Week_Priorities/New Vision - The North Star.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Reporting Vehicles.md",
+      "target": "02-Week_Priorities/Reporting Vehicles.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Plan - Focus.md",
+      "target": "02-Week_Priorities/Plan - Focus.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange All Hands.md",
+      "target": "02-Week_Priorities/Exchange All Hands.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Recruiting.md",
+      "target": "02-Week_Priorities/Recruiting.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Planning/India Trip - 2026-02.md",
+      "target": "02-Week_Priorities/India Trip - 2026-02.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Automation - Exchange Team Taxes - Detractors.md",
+      "target": "02-Week_Priorities/Automation - Exchange Team Taxes - Detractors.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/India Trip - 2026-04.md",
+      "target": "02-Week_Priorities/India Trip - 2026-04.md",
+      "type": "planning"
+    },
+    {
+      "source": "Daily Notes/2026-03-02.md",
+      "target": "00-Inbox/Meetings/2026-03-02 - 2026-03-02.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-06.md",
+      "target": "00-Inbox/Meetings/2026-03-06 - 2026-03-06.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/Daily Note Template.md",
+      "target": "00-Inbox/Daily_Plans/Daily Note Template.md",
+      "type": "daily_note"
+    },
+    {
+      "source": "Daily Notes/2026-03-23.md",
+      "target": "00-Inbox/Meetings/2026-03-23 - 2026-03-23.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-03.md",
+      "target": "00-Inbox/Meetings/2026-03-03 - 2026-03-03.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-04-08.md",
+      "target": "00-Inbox/Meetings/2026-04-08 - 2026-04-08.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-27.md",
+      "target": "00-Inbox/Meetings/2026-03-27 - 2026-03-27.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-13.md",
+      "target": "00-Inbox/Meetings/2026-03-13 - 2026-03-13.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-04-03.md",
+      "target": "00-Inbox/Meetings/2026-04-03 - 2026-04-03.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/Week of 2026-03-02.md",
+      "target": "00-Inbox/Daily_Plans/Week of 2026-03-02.md",
+      "type": "daily_note"
+    },
+    {
+      "source": "Daily Notes/2026-04-07.md",
+      "target": "00-Inbox/Meetings/2026-04-07 - 2026-04-07.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-04-06.md",
+      "target": "00-Inbox/Meetings/2026-04-06 - 2026-04-06.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-02-27.md",
+      "target": "00-Inbox/Meetings/2026-02-27 - 2026-02-27.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-04-02.md",
+      "target": "00-Inbox/Meetings/2026-04-02 - 2026-04-02.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-09.md",
+      "target": "00-Inbox/Meetings/2026-03-09 - 2026-03-09.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-04-01.md",
+      "target": "00-Inbox/Meetings/2026-04-01 - 2026-04-01.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-04.md",
+      "target": "00-Inbox/Meetings/2026-03-04 - 2026-03-04.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-24.md",
+      "target": "00-Inbox/Meetings/2026-03-24 - 2026-03-24.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-10.md",
+      "target": "00-Inbox/Meetings/2026-03-10 - 2026-03-10.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-25.md",
+      "target": "00-Inbox/Meetings/2026-03-25 - 2026-03-25.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-11.md",
+      "target": "00-Inbox/Meetings/2026-03-11 - 2026-03-11.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Daily Notes/2026-03-05.md",
+      "target": "00-Inbox/Meetings/2026-03-05 - 2026-03-05.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Templates/Interview Questions Template.md",
+      "target": "System/Templates/Interview Questions Template.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Discuss resource transfer.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Discuss resource transfer.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Review Mapping workflow.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Review Mapping workflow.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Marten - Dejas Intro.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Marten - Dejas Intro.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/2026-03-03 14.30 Hiring (JDs, Interview Pools etc.).md",
+      "target": "00-Inbox/Meetings/2026-03-03 - Hiring (JDs, Interview Pools etc.).md",
+      "type": "meeting"
+    },
+    {
+      "source": "Meeting Notes/Introduction to Mapping - Session 1.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Introduction to Mapping - Session 1.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Annual Compensation Training (North America & India).md",
+      "target": "06-Resources/Legacy/Meeting Notes/Annual Compensation Training (North America & India).md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/2025-12-11 Business Update.md",
+      "target": "00-Inbox/Meetings/2025-12-11 - 2025-12-11 Business Update.md",
+      "type": "meeting"
+    },
+    {
+      "source": "Meeting Notes/Connect - M\u00e5rten Engblom- Swastik.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Connect - M\u00e5rten Engblom- Swastik.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Monthly Business Review - Finance.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Monthly Business Review - Finance.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Complex Order Automation.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Complex Order Automation.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Weave Follow Up - Reverse Demo.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Weave Follow Up - Reverse Demo.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Rammi - Marten Intro.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Rammi - Marten Intro.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Modernizing Mapping solution.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Modernizing Mapping solution.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Aha! Overview.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Aha! Overview.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Hiring Touch Base.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Hiring Touch Base.md",
+      "type": "other"
+    },
+    {
+      "source": "Meeting Notes/Review the progress & plan for 2026 and challenges from the team.md",
+      "target": "06-Resources/Legacy/Meeting Notes/Review the progress & plan for 2026 and challenges from the team.md",
+      "type": "other"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 10.05 Curtis Staff Meeting - Granola Transcript Summary.md",
+      "target": "00-Inbox/Meetings/2026-03-24 - Curtis Staff Meeting - Granola Transcript Summary.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-12 07.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Welcome email for Aaron Srivastava.md",
+      "target": "00-Inbox/Welcome email for Aaron Srivastava.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-30 13.00 New Exchange Org Structure.md",
+      "target": "00-Inbox/Meetings/2026-03-30 - New Exchange Org Structure.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-10 10.30 Exchange ProductEngineering Weekly Checkpoint.md",
+      "target": "00-Inbox/Meetings/2026-04-10 - Exchange Product/Engineering Weekly Checkpoint.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-04 08.00 Post Incident Review '26 - Earlier Time for IN & EU.md",
+      "target": "00-Inbox/Meetings/2026-03-04 - Post Incident Review '26 - Earlier Time for IN & EU.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 12.00 MPR prep.md",
+      "target": "00-Inbox/Meetings/2026-03-24 - MPR prep.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-05 08.00 Exchange Recruiting - Weekly Team Meeting.md",
+      "target": "00-Inbox/Meetings/2026-03-05 - Exchange Recruiting - Weekly Team Meeting.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-01 15.00 AWS Spend Insights.md",
+      "target": "00-Inbox/Meetings/2026-04-01 - AWS Spend Insights.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-07 16.00 Daniel  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-01-06 - Daniel / M\u00e5rten 1x1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-31 10.05 Curtis Staff Meeting.md",
+      "target": "00-Inbox/Meetings/2026-01-13 - Curtis Staff Meeting.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-06 15.30 1-on-1 with Pratik.md",
+      "target": "00-Inbox/Meetings/2026-04-06 - 1-on-1 with Pratik.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Q2 Planning Reminder Email.md",
+      "target": "00-Inbox/Q2 Planning Reminder Email.md",
+      "type": "planning"
+    },
+    {
+      "source": "00 - Inbox/2026-03-10 14.30 Audit DB Migration Recommendations - Finalize.md",
+      "target": "00-Inbox/Meetings/2026-03-10 - Audit DB Migration Recommendations - Finalize.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2025-12-17 08.00 Weekly Exchange Engg Leadership touchbase.md",
+      "target": "00-Inbox/Meetings/2025-12-17 - Weekly Exchange Engg Leadership touchbase.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-05 20.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-12 07.00 Stryker cyber incident - web activity.md",
+      "target": "00-Inbox/Meetings/2026-03-12 - Stryker cyber incident - web activity.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Email regarding Audit DB migration.md",
+      "target": "00-Inbox/Email regarding Audit DB migration.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/Follow-up to CJ on PHI Redaction.md",
+      "target": "00-Inbox/Follow-up to CJ on PHI Redaction.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/Executive Update - Week of 2026-03-16.md",
+      "target": "00-Inbox/Executive Update - Week of 2026-03-16.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-23 08.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-2.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-12 16.00 Atlas Mig Mongo Schedule Review.md",
+      "target": "00-Inbox/Meetings/2026-03-12 - Atlas Mig Mongo Schedule Review.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-09 08.00 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-3.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-06 07.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-4.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Quick call with CJ.md",
+      "target": "00-Inbox/Meetings/Quick call with CJ.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-06 06.30 Claude Code DU Demo with Eric.md",
+      "target": "00-Inbox/Meetings/2026-03-06 - Claude Code DU Demo with Eric.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Stryker Cyber Attack.md",
+      "target": "00-Inbox/Stryker Cyber Attack.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-13 12.00 Marten Laura 1x1.md",
+      "target": "00-Inbox/Meetings/2026-01-22 - Marten/Laura 1:1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-02 09.00 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-5.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-13 Onboarding Aaron Srivastava.md",
+      "target": "00-Inbox/Meetings/2026-03-13 - 2026-03-13 Onboarding Aaron Srivastava.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Executive Update - Week of 2026-03-09.md",
+      "target": "00-Inbox/Executive Update - Week of 2026-03-09.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-04-03 10.30 Exchange ProductEngineering Weekly Checkpoint.md",
+      "target": "00-Inbox/Meetings/2026-03-27 - Exchange Product/Engineering Weekly Checkpoint.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-09 20.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-6.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-02 07.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-03-02 - Ramesh / M\u00e5rten 1x1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/DB Migration Touchbase Email.md",
+      "target": "00-Inbox/DB Migration Touchbase Email.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-30 07.30 Ramesh  M\u00e5rten 1x1.md",
+      "target": "00-Inbox/Meetings/2026-02-19 - Ramesh / M\u00e5rten 1x1-7.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 08.30 Ramesh  Marten.md",
+      "target": "00-Inbox/Meetings/2026-03-24 - Ramesh / Marten.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-04 11.00 Marten  Eric.md",
+      "target": "00-Inbox/Meetings/2026-03-04 - Marten / Eric.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-09 08.00 Exchange Recruiting - Weekly Team Meeting.md",
+      "target": "00-Inbox/Meetings/2026-03-05 - Exchange Recruiting - Weekly Team Meeting-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Nate Letcher question about Q2 Delivery.md",
+      "target": "00-Inbox/Nate Letcher question about Q2 Delivery.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-04-02 09.35 MartenCurtis.md",
+      "target": "00-Inbox/Meetings/2026-04-02 - Marten/Curtis.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-10 - Email to Laura re Customer Defect KRs.md",
+      "target": "00-Inbox/Meetings/2026-03-10 - 2026-03-10 - Email to Laura re Customer Defect KRs.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Additional training for new hires.md",
+      "target": "00-Inbox/Additional training for new hires.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-06 12.35 Touchbase on DB Migration.md",
+      "target": "00-Inbox/Meetings/2026-03-06 - Touchbase on DB Migration.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-01-22 14.31 MartenLaura 11.md",
+      "target": "00-Inbox/Meetings/2026-01-22 - Marten/Laura 1:1-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-03 13.05 Jarvis Steerco.md",
+      "target": "00-Inbox/Meetings/2026-02-06 - Jarvis Steerco.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-02 14.30 Audit DB Migration Recommendations + Look ahead.md",
+      "target": "00-Inbox/Meetings/2026-03-02 - Audit DB Migration Recommendations + Look ahead.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-30 08.30 HM proposal on outcome based engagement for IPA .md",
+      "target": "00-Inbox/Meetings/2026-03-30 - HM proposal on outcome based engagement for IPA.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-09 09.30 Marten   Aaron.md",
+      "target": "00-Inbox/Meetings/2026-04-09 - Marten /  Aaron.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-04 09.45 Event Platform Team - Brainstorming Session and Sprint Planning.md",
+      "target": "00-Inbox/Meetings/2026-03-04 - Event Platform Team - Brainstorming Session and Sprint Planning.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-04-03 08.30 eInv and Exchange Tech Sync Up.md",
+      "target": "00-Inbox/Meetings/2026-02-06 - eInv and Exchange Tech Sync Up.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-01-22 14.30 MartenLaura 11.md",
+      "target": "00-Inbox/Meetings/2026-01-22 - Marten/Laura 1:1-2.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-06 09.00 Event Platform - Continue Brainstorming and Sprint Planning.md",
+      "target": "00-Inbox/Meetings/2026-03-06 - Event Platform - Continue Brainstorming and Sprint Planning.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-05 10.00 Event Platform - Continue Brainstorming and Sprint Planning.md",
+      "target": "00-Inbox/Meetings/2026-03-05 - Event Platform - Continue Brainstorming and Sprint Planning.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-11 Audit DB - Atlas Migration Update.md",
+      "target": "00-Inbox/Meetings/2026-03-11 - 2026-03-11 Audit DB - Atlas Migration Update.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-09 14.30 Audit DB Migration Recommendations - Follow-up.md",
+      "target": "00-Inbox/Meetings/2026-03-09 - Audit DB Migration Recommendations - Follow-up.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Prep for Touchbase on DB Migration.md",
+      "target": "00-Inbox/Prep for Touchbase on DB Migration.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-23 09.05 Monthly All Hands - Curtis Org.md",
+      "target": "00-Inbox/Meetings/2025-11-13 - Monthly All Hands - Curtis Org.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-25 14.05 Accelerate database migration.md",
+      "target": "00-Inbox/Meetings/2026-03-25 - Accelerate database migration.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 10.05 Curtis Staff Meeting.md",
+      "target": "00-Inbox/Meetings/2026-01-13 - Curtis Staff Meeting-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-26 05.00 .md",
+      "target": "00-Inbox/Meetings/2026-03-26 - 2026-03-26 05.00 .md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-01-20 14.05 CurtisM\u00e5rten 1-1.md",
+      "target": "00-Inbox/Meetings/2026-01-20 - Curtis/M\u00e5rten 1-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-11 07.00 Claude POC Discussion.md",
+      "target": "00-Inbox/Meetings/2026-03-11 - Claude POC Discussion.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 13.30 Marten  Aaron.md",
+      "target": "00-Inbox/Meetings/2026-03-24 - Marten / Aaron.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-13 11.30 Incident Discussion Follow up wPete.md",
+      "target": "00-Inbox/Meetings/2026-03-13 - Incident Discussion Follow up w/Pete.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-06 06.30 Claude Code DU Demo with Eric - Feedback Email.md",
+      "target": "00-Inbox/Meetings/2026-03-06 - Claude Code DU Demo with Eric - Feedback Email.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-05 14.30 MartenLaura 11.md",
+      "target": "00-Inbox/Meetings/2026-01-22 - Marten/Laura 1:1-3.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/2026-03-25 10.30 Defining Vendor Outcomes POInvoice Migration to an AI platform.md",
+      "target": "00-Inbox/Meetings/2026-03-25 - Defining Vendor Outcomes: PO/Invoice Migration to an AI platform.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Message to Sandy about Christine moving to Product.md",
+      "target": "00-Inbox/Message to Sandy about Christine moving to Product.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/RE REMINDER Q2 Planning Preparation.md",
+      "target": "00-Inbox/RE REMINDER Q2 Planning Preparation.md",
+      "type": "planning"
+    },
+    {
+      "source": "00 - Inbox/2026-03-02 08.30 Streamlining Our Exchange Hiring Process - Q&A.md",
+      "target": "00-Inbox/Meetings/2026-03-02 - Streamlining Our Exchange Hiring Process - Q&A.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/Alignment with HR on UK employee reporting to India EM.md",
+      "target": "00-Inbox/Alignment with HR on UK employee reporting to India EM.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-03-24 14.05 CurtisM\u00e5rten 1-1.md",
+      "target": "00-Inbox/Meetings/2026-01-20 - Curtis/M\u00e5rten 1-1-1.md",
+      "type": "meeting"
+    },
+    {
+      "source": "00 - Inbox/New Organization Topology Announcement.md",
+      "target": "00-Inbox/New Organization Topology Announcement.md",
+      "type": "inbox"
+    },
+    {
+      "source": "00 - Inbox/2026-01-06 10.00 MartenSandy (HR Check-in) .md",
+      "target": "00-Inbox/Meetings/2026-01-06 - Marten/Sandy (HR Check-in).md",
+      "type": "meeting"
+    },
+    {
+      "source": "Recruiting/Recruiter Screening Questions - All Engineering Roles.md",
+      "target": "04-Projects/Recruiting_2026/Recruiter Screening Questions - All Engineering Roles.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Recruiter Screening Questions - All Engineering Roles (Short).md",
+      "target": "04-Projects/Recruiting_2026/Recruiter Screening Questions - All Engineering Roles (Short).md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/15 - Senior Software Engineer/Job Description - Senior Software Engineer.md",
+      "target": "04-Projects/Recruiting_2026/Roles/15 - Senior Software Engineer/Job Description - Senior Software Engineer.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Principal Engineer, Data Architecture and Engineering - Job Description.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Principal Engineer, Data Architecture and Engineering - Job Description.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interview Structure.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interview Structure.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Principal Engineer, Data Architecture and Engineering - Scorecard.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Principal Engineer, Data Architecture and Engineering - Scorecard.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Engineering Manager - Job Description.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Engineering Manager - Job Description.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Engineering Manager - Scorecard Criteria.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Engineering Manager - Scorecard Criteria.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Software Engineer/Job Description - Principal Software Engineer.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Software Engineer/Job Description - Principal Software Engineer.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/11 - Director, Software Engineering - Developer Platform & AI Enablement/Email to Kayla about Director compensation.md",
+      "target": "04-Projects/Recruiting_2026/Roles/11 - Director, Software Engineering - Developer Platform & AI Enablement/Email to Kayla about Director compensation.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/11 - Director, Software Engineering - Developer Platform & AI Enablement/JD - Director, Software Engineering - Developer Platform & AI Enablement.md",
+      "target": "04-Projects/Recruiting_2026/Roles/11 - Director, Software Engineering - Developer Platform & AI Enablement/JD - Director, Software Engineering - Developer Platform & AI Enablement.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/14 - Staff Software Engineer/Interviews/Brett Cooley/Brett Cooley - Interview Questions (Architecture & Technical Leadership).md",
+      "target": "04-Projects/Recruiting_2026/Roles/14 - Staff Software Engineer/Interviews/Brett Cooley/Brett Cooley - Interview Questions (Architecture & Technical Leadership).md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/14 - Staff Software Engineer/Interviews/Brett Cooley/Brett Cooley - Interview Summary.md",
+      "target": "04-Projects/Recruiting_2026/Roles/14 - Staff Software Engineer/Interviews/Brett Cooley/Brett Cooley - Interview Summary.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Software Engineer/Interviews/Sean Diamond/Interview Questions - Sean Diamond.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Software Engineer/Interviews/Sean Diamond/Interview Questions - Sean Diamond.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Software Engineer/Interviews/Justin Hancock/Interview Questions - Justin Hancock.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Software Engineer/Interviews/Justin Hancock/Interview Questions - Justin Hancock.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Software Engineer/Interviews/Justin Hancock/Interview Summary - Justin Hancock.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Software Engineer/Interviews/Justin Hancock/Interview Summary - Justin Hancock.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Growtham Kumar.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Growtham Kumar.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Guru.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Guru.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Vivek Jangam.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Vivek Jangam.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Rituparna Ghosh/Rituparna Ghosh - Interview.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Rituparna Ghosh/Rituparna Ghosh - Interview.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Rituparna Ghosh/Rituparna Ghosh - Interview Summary.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Rituparna Ghosh/Rituparna Ghosh - Interview Summary.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Kooper Frahm/Kooper Frahm - Interview Summary.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Kooper Frahm/Kooper Frahm - Interview Summary.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Kooper Frahm/Kooper Frahm - Interview.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Kooper Frahm/Kooper Frahm - Interview.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Ravi Kotha - Interview Transcript.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Ravi Kotha - Interview Transcript.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Scorecard - Ravi Kotha.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Scorecard - Ravi Kotha.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Interview Questions - Ravi Kotha.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Interview Questions - Ravi Kotha.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Resume - Ravi Kotha.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Ravi Kotha/Resume - Ravi Kotha.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/12 - Engineering Manager/Interviews/Mike Mitchell/Interview Mike Mitchell and Marten Engblom.md",
+      "target": "04-Projects/Recruiting_2026/Roles/12 - Engineering Manager/Interviews/Mike Mitchell/Interview Mike Mitchell and Marten Engblom.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Interview Questions - David Smith.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Interview Questions - David Smith.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Resume - David Smith.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Resume - David Smith.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Interview Scorecard - David Smith.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/David Smith/Interview Scorecard - David Smith.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Interview Scorecard - Troy Christensen.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Interview Scorecard - Troy Christensen.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Resume - Troy Christensen.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Resume - Troy Christensen.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Interview Questions - Troy Christensen.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Troy Christensen/Interview Questions - Troy Christensen.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Interview Questions - Victor Tang.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Interview Questions - Victor Tang.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Interview Transcript.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Interview Transcript.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Resume - Victor Tang.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Resume - Victor Tang.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Scorecard - Victor Tang.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Victor Tang/Scorecard - Victor Tang.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Resume - Stephen Kim.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Resume - Stephen Kim.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Interview Scorecard - Stephen Kim.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Interview Scorecard - Stephen Kim.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Interview Questions - Stephen Kim.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Stephen Kim/Interview Questions - Stephen Kim.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Madhav Ghimire/Interview Questions - Madhav Ghimire.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Madhav Ghimire/Interview Questions - Madhav Ghimire.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Scorecard - Alex Nyffeler.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Scorecard - Alex Nyffeler.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Resume - Alex Nyffeler.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Resume - Alex Nyffeler.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Interview Transcript - Alex Nyffeler.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Interview Transcript - Alex Nyffeler.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Recruiting/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Interview Questions - Alex Nyffeler.md",
+      "target": "04-Projects/Recruiting_2026/Roles/13 - Principal Engineer - Data Architecture and Engineering/Interviews/Alex Nyffeler/Interview Questions - Alex Nyffeler.md",
+      "type": "recruiting"
+    },
+    {
+      "source": "Management/Daniel Milburn/Daniel Milburn - 2025 Annual Performance Review - By Curtis.md",
+      "target": "06-Resources/Management/Daniel Milburn - 2025 Annual Performance Review - By Curtis.md",
+      "type": "management"
+    },
+    {
+      "source": "Management/Daniel Milburn/Daniel Milburn - 2025 Annual Performance Review - My Addition.md",
+      "target": "06-Resources/Management/Daniel Milburn - 2025 Annual Performance Review - My Addition.md",
+      "type": "management"
+    },
+    {
+      "source": "Management/Ramesh Donnipadu/Ramesh Donnipadu - 2025 Annual Performance Review - My Addition.md",
+      "target": "06-Resources/Management/Ramesh Donnipadu - 2025 Annual Performance Review - My Addition.md",
+      "type": "management"
+    },
+    {
+      "source": "Management/Ramesh Donnipadu/Ramesh Donnipadu - 2025 Annual Performance Review - By Curtis.md",
+      "target": "06-Resources/Management/Ramesh Donnipadu - 2025 Annual Performance Review - By Curtis.md",
+      "type": "management"
+    },
+    {
+      "source": "Planning/Architecture Picture/Architecture Diagram Questions.md",
+      "target": "02-Week_Priorities/Architecture Diagram Questions.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Architecture Picture/Architecture Flaws, Improvement Areas.md",
+      "target": "02-Week_Priorities/Architecture Flaws, Improvement Areas.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/2026 Q1 Planning/2026 Q1 Focus Areas.md",
+      "target": "02-Week_Priorities/2026 Q1 Focus Areas.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/2026 Q1 Planning/Marten Engblom 2026 Q1 OKRs - Draft.md",
+      "target": "02-Week_Priorities/Marten Engblom 2026 Q1 OKRs - Draft.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/ToDo/ToDo.md",
+      "target": "02-Week_Priorities/ToDo.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/ToDo/Architecture Picture.md",
+      "target": "02-Week_Priorities/Architecture Picture.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/2026 Q2 Planning/2026 Q2 OKR Direction from Curtis.md",
+      "target": "02-Week_Priorities/2026 Q2 OKR Direction from Curtis.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/2026 Q2 Planning/2026 Q2 OKR Scratch Pad.md",
+      "target": "02-Week_Priorities/2026 Q2 OKR Scratch Pad.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Exchange - Building Autonomous Teams.md",
+      "target": "02-Week_Priorities/Exchange - Building Autonomous Teams.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Data Architecture and Engineering - Team Charter.md",
+      "target": "02-Week_Priorities/Data Architecture and Engineering - Team Charter.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Onboarding/Who are my customers.md",
+      "target": "07-Archives/Plans/Who are my customers.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Onboarding/Onboarding.md",
+      "target": "07-Archives/Plans/Onboarding.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Onboarding/Tina's Glass Balls.md",
+      "target": "07-Archives/Plans/Tina's Glass Balls.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Exchange - New Organization Deck.md",
+      "target": "02-Week_Priorities/Exchange - New Organization Deck.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Exchange - New Organization Deck - Slides.md",
+      "target": "02-Week_Priorities/Exchange - New Organization Deck - Slides.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Curtis Feedback.md",
+      "target": "02-Week_Priorities/Curtis Feedback.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/2026 Kickoff Material for Curtis (Exchange Resiliency, Team-Org plan).md",
+      "target": "02-Week_Priorities/2026 Kickoff Material for Curtis (Exchange Resiliency, Team-Org plan).md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Exchange - New Organization Deck (snapshot copy).md",
+      "target": "02-Week_Priorities/Exchange - New Organization Deck (snapshot copy).md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Exchange Team Strategy-Plan Deck.md",
+      "target": "02-Week_Priorities/Exchange Team Strategy-Plan Deck.md",
+      "type": "planning"
+    },
+    {
+      "source": "Planning/Exchange Team Strategy/Plan Deck/Exchange Organization Slide Deck.md",
+      "target": "02-Week_Priorities/Exchange Organization Slide Deck.md",
+      "type": "planning"
+    },
+    {
+      "source": "Projects/New Org 2026/Open Questions.md",
+      "target": "04-Projects/New_Org_2026/Open Questions.md",
+      "type": "project"
+    },
+    {
+      "source": "Projects/New Org 2026/Message to the team.md",
+      "target": "04-Projects/New_Org_2026/Message to the team.md",
+      "type": "project"
+    },
+    {
+      "source": "Projects/Laguna Offsite/Arshad 2026 Plan.md",
+      "target": "07-Archives/Projects/Laguna_Offsite_2026/Arshad 2026 Plan.md",
+      "type": "project"
+    },
+    {
+      "source": "Projects/Laguna Offsite/Notes.md",
+      "target": "07-Archives/Projects/Laguna_Offsite_2026/Notes.md",
+      "type": "project"
+    },
+    {
+      "source": "Projects/AI Native Dev/Weave Intro.md",
+      "target": "04-Projects/AI_Native_Dev/Weave Intro.md",
+      "type": "project"
+    },
+    {
+      "source": "Projects/AI Native Dev/Products.md",
+      "target": "04-Projects/AI_Native_Dev/Products.md",
+      "type": "project"
+    }
+  ],
+  "people_created": [
+    {
+      "name": "Annie Leong",
+      "file": "05-Areas/People/Internal/Annie_Leong.md"
+    },
+    {
+      "name": "Prashanth Garlapati",
+      "file": "05-Areas/People/Internal/Prashanth_Garlapati.md"
+    },
+    {
+      "name": "Brian Moran",
+      "file": "05-Areas/People/Internal/Brian_Moran.md"
+    },
+    {
+      "name": "Laura Taylor",
+      "file": "05-Areas/People/Internal/Laura_Taylor.md"
+    },
+    {
+      "name": "Ramesh Donnipadu",
+      "file": "05-Areas/People/Internal/Ramesh_Donnipadu.md"
+    },
+    {
+      "name": "Matthew D. Gibson",
+      "file": "05-Areas/People/Internal/Matthew_D._Gibson.md"
+    },
+    {
+      "name": "Jaimin Shah",
+      "file": "05-Areas/People/Internal/Jaimin_Shah.md"
+    },
+    {
+      "name": "Alexis Hull-Stone",
+      "file": "05-Areas/People/Internal/Alexis_Hull-Stone.md"
+    },
+    {
+      "name": "Radha Krishna Mannemala",
+      "file": "05-Areas/People/Internal/Radha_Krishna_Mannemala.md"
+    },
+    {
+      "name": "Glenn Sorensen",
+      "file": "05-Areas/People/Internal/Glenn_Sorensen.md"
+    },
+    {
+      "name": "Leela Mohan Macharla",
+      "file": "05-Areas/People/Internal/Leela_Mohan_Macharla.md"
+    },
+    {
+      "name": "Hari Prasad Narasapu",
+      "file": "05-Areas/People/Internal/Hari_Prasad_Narasapu.md"
+    },
+    {
+      "name": "Michael Mitchell",
+      "file": "05-Areas/People/Internal/Michael_Mitchell.md"
+    },
+    {
+      "name": "Daniel Milburn",
+      "file": "05-Areas/People/Internal/Daniel_Milburn.md"
+    },
+    {
+      "name": "CJ Singh",
+      "file": "05-Areas/People/Internal/CJ_Singh.md"
+    },
+    {
+      "name": "Curtis Nielsen",
+      "file": "05-Areas/People/Internal/Curtis_Nielsen.md"
+    },
+    {
+      "name": "Marlin Doner",
+      "file": "05-Areas/People/Internal/Marlin_Doner.md"
+    },
+    {
+      "name": "Zachary Knarr",
+      "file": "05-Areas/People/Internal/Zachary_Knarr.md"
+    },
+    {
+      "name": "Arshad Mahammad",
+      "file": "05-Areas/People/Internal/Arshad_Mahammad.md"
+    },
+    {
+      "name": "Jude Shelton Nevis",
+      "file": "05-Areas/People/Internal/Jude_Shelton_Nevis.md"
+    },
+    {
+      "name": "Lindsey Wallace",
+      "file": "05-Areas/People/Internal/Lindsey_Wallace.md"
+    },
+    {
+      "name": "Bryan Loughry",
+      "file": "05-Areas/People/Internal/Bryan_Loughry.md"
+    },
+    {
+      "name": "Thiyagarajan Murugan",
+      "file": "05-Areas/People/Internal/Thiyagarajan_Murugan.md"
+    },
+    {
+      "name": "Graham Gilmour",
+      "file": "05-Areas/People/Internal/Graham_Gilmour.md"
+    },
+    {
+      "name": "Donald Bell",
+      "file": "05-Areas/People/Internal/Donald_Bell.md"
+    },
+    {
+      "name": "Paul Bobbitt",
+      "file": "05-Areas/People/Internal/Paul_Bobbitt.md"
+    },
+    {
+      "name": "Ravi Patel",
+      "file": "05-Areas/People/Internal/Ravi_Patel.md"
+    },
+    {
+      "name": "Prathibadevi Thiagarajan",
+      "file": "05-Areas/People/Internal/Prathibadevi_Thiagarajan.md"
+    },
+    {
+      "name": "Shaun Janicki",
+      "file": "05-Areas/People/Internal/Shaun_Janicki.md"
+    },
+    {
+      "name": "Balaji Venkata Narasimhan",
+      "file": "05-Areas/People/Internal/Balaji_Venkata_Narasimhan.md"
+    },
+    {
+      "name": "Jamie Collins",
+      "file": "05-Areas/People/Internal/Jamie_Collins.md"
+    },
+    {
+      "name": "Mark Savastano",
+      "file": "05-Areas/People/Internal/Mark_Savastano.md"
+    },
+    {
+      "name": "Uday Madhyala",
+      "file": "05-Areas/People/Internal/Uday_Madhyala.md"
+    },
+    {
+      "name": "Alexa Swihart",
+      "file": "05-Areas/People/Internal/Alexa_Swihart.md"
+    },
+    {
+      "name": "Kevin Bobbitt",
+      "file": "05-Areas/People/Internal/Kevin_Bobbitt.md"
+    },
+    {
+      "name": "Lydia Holmstrand",
+      "file": "05-Areas/People/Internal/Lydia_Holmstrand.md"
+    },
+    {
+      "name": "Kyle Way",
+      "file": "05-Areas/People/Internal/Kyle_Way.md"
+    },
+    {
+      "name": "Brandon J. Jolly",
+      "file": "05-Areas/People/Internal/Brandon_J._Jolly.md"
+    },
+    {
+      "name": "Boris Blankenstein",
+      "file": "05-Areas/People/Internal/Boris_Blankenstein.md"
+    },
+    {
+      "name": "Eric Arrington",
+      "file": "05-Areas/People/Internal/Eric_Arrington.md"
+    },
+    {
+      "name": "Michael Katzenbach",
+      "file": "05-Areas/People/Internal/Michael_Katzenbach.md"
+    },
+    {
+      "name": "Hannah Bentley",
+      "file": "05-Areas/People/Internal/Hannah_Bentley.md"
+    },
+    {
+      "name": "Daniel Tench",
+      "file": "05-Areas/People/Internal/Daniel_Tench.md"
+    },
+    {
+      "name": "Ren\u00e9 Gand",
+      "file": "05-Areas/People/Internal/Ren\u00e9_Gand.md"
+    },
+    {
+      "name": "Michael Rauner",
+      "file": "05-Areas/People/Internal/Michael_Rauner.md"
+    },
+    {
+      "name": "Pete Ferguson",
+      "file": "05-Areas/People/Internal/Pete_Ferguson.md"
+    },
+    {
+      "name": "Tim Shanahan",
+      "file": "05-Areas/People/Internal/Tim_Shanahan.md"
+    },
+    {
+      "name": "Ali Inam",
+      "file": "05-Areas/People/Internal/Ali_Inam.md"
+    },
+    {
+      "name": "Camron Moore",
+      "file": "05-Areas/People/Internal/Camron_Moore.md"
+    },
+    {
+      "name": "Eric Wehler",
+      "file": "05-Areas/People/Internal/Eric_Wehler.md"
+    },
+    {
+      "name": "Jonathan Fitch",
+      "file": "05-Areas/People/Internal/Jonathan_Fitch.md"
+    },
+    {
+      "name": "Matthew Turner",
+      "file": "05-Areas/People/Internal/Matthew_Turner.md"
+    },
+    {
+      "name": "Nicholas Portillo",
+      "file": "05-Areas/People/Internal/Nicholas_Portillo.md"
+    },
+    {
+      "name": "Thien La",
+      "file": "05-Areas/People/Internal/Thien_La.md"
+    },
+    {
+      "name": "Vik Vasudeva",
+      "file": "05-Areas/People/Internal/Vik_Vasudeva.md"
+    },
+    {
+      "name": "Will Emmel",
+      "file": "05-Areas/People/Internal/Will_Emmel.md"
+    },
+    {
+      "name": "Gregory Bank",
+      "file": "05-Areas/People/Internal/Gregory_Bank.md"
+    },
+    {
+      "name": "Amanda Burkett",
+      "file": "05-Areas/People/Internal/Amanda_Burkett.md"
+    },
+    {
+      "name": "Mike Lusche",
+      "file": "05-Areas/People/Internal/Mike_Lusche.md"
+    },
+    {
+      "name": "Valerie White",
+      "file": "05-Areas/People/Internal/Valerie_White.md"
+    },
+    {
+      "name": "Anand Nayak",
+      "file": "05-Areas/People/Internal/Anand_Nayak.md"
+    },
+    {
+      "name": "Nathan Letcher",
+      "file": "05-Areas/People/Internal/Nathan_Letcher.md"
+    },
+    {
+      "name": "Nattawut Ngampatipatpong",
+      "file": "05-Areas/People/Internal/Nattawut_Ngampatipatpong.md"
+    },
+    {
+      "name": "Suresh Kumar",
+      "file": "05-Areas/People/Internal/Suresh_Kumar.md"
+    },
+    {
+      "name": "Munib Ali",
+      "file": "05-Areas/People/Internal/Munib_Ali.md"
+    },
+    {
+      "name": "Eric Steele",
+      "file": "05-Areas/People/Internal/Eric_Steele.md"
+    },
+    {
+      "name": "Nilesh Korpad",
+      "file": "05-Areas/People/Internal/Nilesh_Korpad.md"
+    },
+    {
+      "name": "Dilip Gandham",
+      "file": "05-Areas/People/Internal/Dilip_Gandham.md"
+    },
+    {
+      "name": "Dhaval Shah",
+      "file": "05-Areas/People/Internal/Dhaval_Shah.md"
+    },
+    {
+      "name": "Duy Nguyen",
+      "file": "05-Areas/People/Internal/Duy_Nguyen.md"
+    },
+    {
+      "name": "Doug Weber",
+      "file": "05-Areas/People/Internal/Doug_Weber.md"
+    },
+    {
+      "name": "Jeff Sherard",
+      "file": "05-Areas/People/Internal/Jeff_Sherard.md"
+    },
+    {
+      "name": "Scott Woodrich",
+      "file": "05-Areas/People/Internal/Scott_Woodrich.md"
+    },
+    {
+      "name": "Bharat Sharma",
+      "file": "05-Areas/People/Internal/Bharat_Sharma.md"
+    },
+    {
+      "name": "Gregg Starkel",
+      "file": "05-Areas/People/Internal/Gregg_Starkel.md"
+    },
+    {
+      "name": "Nicole Cesa",
+      "file": "05-Areas/People/Internal/Nicole_Cesa.md"
+    },
+    {
+      "name": "Seth Hudman",
+      "file": "05-Areas/People/Internal/Seth_Hudman.md"
+    },
+    {
+      "name": "Tristan Nunn",
+      "file": "05-Areas/People/Internal/Tristan_Nunn.md"
+    },
+    {
+      "name": "Tomas Bojda",
+      "file": "05-Areas/People/Internal/Tomas_Bojda.md"
+    },
+    {
+      "name": "Ian MacLaughlin",
+      "file": "05-Areas/People/Internal/Ian_MacLaughlin.md"
+    },
+    {
+      "name": "Kaka Bala Sai Krishna",
+      "file": "05-Areas/People/Internal/Kaka_Bala_Sai_Krishna.md"
+    },
+    {
+      "name": "Erik Huybrechts",
+      "file": "05-Areas/People/Internal/Erik_Huybrechts.md"
+    },
+    {
+      "name": "Mark Ford",
+      "file": "05-Areas/People/Internal/Mark_Ford.md"
+    },
+    {
+      "name": "Gaurav Saini",
+      "file": "05-Areas/People/Internal/Gaurav_Saini.md"
+    },
+    {
+      "name": "Rishitha Musunuri",
+      "file": "05-Areas/People/Internal/Rishitha_Musunuri.md"
+    },
+    {
+      "name": "Tasha Reynolds",
+      "file": "05-Areas/People/Internal/Tasha_Reynolds.md"
+    },
+    {
+      "name": "Taylor Hammond",
+      "file": "05-Areas/People/Internal/Taylor_Hammond.md"
+    },
+    {
+      "name": "Divya Bhatia",
+      "file": "05-Areas/People/Internal/Divya_Bhatia.md"
+    },
+    {
+      "name": "Sarah Ridgway",
+      "file": "05-Areas/People/Internal/Sarah_Ridgway.md"
+    },
+    {
+      "name": "Sneha Das",
+      "file": "05-Areas/People/Internal/Sneha_Das.md"
+    },
+    {
+      "name": "Jennifer Hagaman",
+      "file": "05-Areas/People/Internal/Jennifer_Hagaman.md"
+    },
+    {
+      "name": "Mayank Gaur",
+      "file": "05-Areas/People/Internal/Mayank_Gaur.md"
+    },
+    {
+      "name": "Deepika Rani",
+      "file": "05-Areas/People/Internal/Deepika_Rani.md"
+    },
+    {
+      "name": "Chantell Markert",
+      "file": "05-Areas/People/Internal/Chantell_Markert.md"
+    },
+    {
+      "name": "Ankur Singh",
+      "file": "05-Areas/People/Internal/Ankur_Singh.md"
+    },
+    {
+      "name": "Laura Voegerl",
+      "file": "05-Areas/People/Internal/Laura_Voegerl.md"
+    },
+    {
+      "name": "Michal Seligson",
+      "file": "05-Areas/People/Internal/Michal_Seligson.md"
+    },
+    {
+      "name": "Swastik Bihani",
+      "file": "05-Areas/People/Internal/Swastik_Bihani.md"
+    },
+    {
+      "name": "Sandra Chronister",
+      "file": "05-Areas/People/Internal/Sandra_Chronister.md"
+    },
+    {
+      "name": "Gururaj N",
+      "file": "05-Areas/People/Internal/Gururaj_N.md"
+    },
+    {
+      "name": "Gregory Wilson",
+      "file": "05-Areas/People/Internal/Gregory_Wilson.md"
+    },
+    {
+      "name": "Pratik Panchal",
+      "file": "05-Areas/People/Internal/Pratik_Panchal.md"
+    },
+    {
+      "name": "Michael Knarr",
+      "file": "05-Areas/People/Internal/Michael_Knarr.md"
+    },
+    {
+      "name": "Philippe Scoffie",
+      "file": "05-Areas/People/Internal/Philippe_Scoffie.md"
+    },
+    {
+      "name": "Ben Ludkiewicz",
+      "file": "05-Areas/People/Internal/Ben_Ludkiewicz.md"
+    },
+    {
+      "name": "Arivazhagan Jeganathan",
+      "file": "05-Areas/People/Internal/Arivazhagan_Jeganathan.md"
+    },
+    {
+      "name": "Selvakumar Samiappan",
+      "file": "05-Areas/People/Internal/Selvakumar_Samiappan.md"
+    },
+    {
+      "name": "Tapas Subhashis Kar",
+      "file": "05-Areas/People/Internal/Tapas_Subhashis_Kar.md"
+    },
+    {
+      "name": "Jacob Norton",
+      "file": "05-Areas/People/Internal/Jacob_Norton.md"
+    },
+    {
+      "name": "Ramesh Rangavithal Donnipadu",
+      "file": "05-Areas/People/Internal/Ramesh_Rangavithal_Donnipadu.md"
+    },
+    {
+      "name": "Eswar Ram Govind Vaddi",
+      "file": "05-Areas/People/Internal/Eswar_Ram_Govind_Vaddi.md"
+    },
+    {
+      "name": "Greg Thompson",
+      "file": "05-Areas/People/Internal/Greg_Thompson.md"
+    },
+    {
+      "name": "Alyssa Kucky",
+      "file": "05-Areas/People/Internal/Alyssa_Kucky.md"
+    },
+    {
+      "name": "Don Bell",
+      "file": "05-Areas/People/Internal/Don_Bell.md"
+    },
+    {
+      "name": "Aaron Srivastava",
+      "file": "05-Areas/People/Internal/Aaron_Srivastava.md"
+    },
+    {
+      "name": "Selvaganesh Mariappa Paramasivan",
+      "file": "05-Areas/People/Internal/Selvaganesh_Mariappa_Paramasivan.md"
+    },
+    {
+      "name": "Rajesh Kannan K",
+      "file": "05-Areas/People/Internal/Rajesh_Kannan_K.md"
+    },
+    {
+      "name": "Padmanabha Rao",
+      "file": "05-Areas/People/Internal/Padmanabha_Rao.md"
+    },
+    {
+      "name": "Suresh Chettur",
+      "file": "05-Areas/People/Internal/Suresh_Chettur.md"
+    },
+    {
+      "name": "Karthi Arumugam",
+      "file": "05-Areas/People/Internal/Karthi_Arumugam.md"
+    },
+    {
+      "name": "Vignesh Arunachalam",
+      "file": "05-Areas/People/Internal/Vignesh_Arunachalam.md"
+    },
+    {
+      "name": "Venmathi Vijayakumar",
+      "file": "05-Areas/People/Internal/Venmathi_Vijayakumar.md"
+    },
+    {
+      "name": "Senthil Arunachalam",
+      "file": "05-Areas/People/Internal/Senthil_Arunachalam.md"
+    },
+    {
+      "name": "Balaji Venkatesan",
+      "file": "05-Areas/People/Internal/Balaji_Venkatesan.md"
+    },
+    {
+      "name": "Nicole Healy",
+      "file": "05-Areas/People/Internal/Nicole_Healy.md"
+    },
+    {
+      "name": "Joe Comsti",
+      "file": "05-Areas/People/Internal/Joe_Comsti.md"
+    },
+    {
+      "name": "Christine Zhou",
+      "file": "05-Areas/People/Internal/Christine_Zhou.md"
+    },
+    {
+      "name": "Chris  Wandel",
+      "file": "05-Areas/People/Internal/Chris__Wandel.md"
+    },
+    {
+      "name": "Praffulkumar Somani",
+      "file": "05-Areas/People/Internal/Praffulkumar_Somani.md"
+    },
+    {
+      "name": "Vikas Bogelli",
+      "file": "05-Areas/People/Internal/Vikas_Bogelli.md"
+    },
+    {
+      "name": "Mark McLean",
+      "file": "05-Areas/People/Internal/Mark_McLean.md"
+    },
+    {
+      "name": "John White",
+      "file": "05-Areas/People/Internal/John_White.md"
+    },
+    {
+      "name": "Nathan Teeter",
+      "file": "05-Areas/People/Internal/Nathan_Teeter.md"
+    },
+    {
+      "name": "Srikanth Kalakonda",
+      "file": "05-Areas/People/Internal/Srikanth_Kalakonda.md"
+    },
+    {
+      "name": "Akash Jaiswal",
+      "file": "05-Areas/People/Internal/Akash_Jaiswal.md"
+    },
+    {
+      "name": "Johans Bautista",
+      "file": "05-Areas/People/Internal/Johans_Bautista.md"
+    },
+    {
+      "name": "Ravindra Singh Rathore",
+      "file": "05-Areas/People/Internal/Ravindra_Singh_Rathore.md"
+    },
+    {
+      "name": "Sheik Akbar Pasha",
+      "file": "05-Areas/People/Internal/Sheik_Akbar_Pasha.md"
+    },
+    {
+      "name": "Gagantrisul Duddukuri",
+      "file": "05-Areas/People/Internal/Gagantrisul_Duddukuri.md"
+    },
+    {
+      "name": "Inna Skoroda",
+      "file": "05-Areas/People/Internal/Inna_Skoroda.md"
+    },
+    {
+      "name": "Julia Chernin",
+      "file": "05-Areas/People/Internal/Julia_Chernin.md"
+    },
+    {
+      "name": "Rick Salcido",
+      "file": "05-Areas/People/Internal/Rick_Salcido.md"
+    },
+    {
+      "name": "Aaqeeb Jawed",
+      "file": "05-Areas/People/Internal/Aaqeeb_Jawed.md"
+    },
+    {
+      "name": "Brandon Fortunato",
+      "file": "05-Areas/People/Internal/Brandon_Fortunato.md"
+    },
+    {
+      "name": "Erik Truby",
+      "file": "05-Areas/People/Internal/Erik_Truby.md"
+    },
+    {
+      "name": "Mukesh Burnwal",
+      "file": "05-Areas/People/Internal/Mukesh_Burnwal.md"
+    },
+    {
+      "name": "Mohammed Shaik",
+      "file": "05-Areas/People/Internal/Mohammed_Shaik.md"
+    },
+    {
+      "name": "Tsolak Petrosian",
+      "file": "05-Areas/People/Internal/Tsolak_Petrosian.md"
+    },
+    {
+      "name": "SUNEEL KUMAR Suneel",
+      "file": "05-Areas/People/Internal/SUNEEL_KUMAR_Suneel.md"
+    },
+    {
+      "name": "Shakamuri Divya",
+      "file": "05-Areas/People/Internal/Shakamuri_Divya.md"
+    },
+    {
+      "name": "Hemanth Kumar Gudipelli",
+      "file": "05-Areas/People/Internal/Hemanth_Kumar_Gudipelli.md"
+    },
+    {
+      "name": "Jitendra Kumar Pradhan",
+      "file": "05-Areas/People/Internal/Jitendra_Kumar_Pradhan.md"
+    },
+    {
+      "name": "Joe Gurney",
+      "file": "05-Areas/People/Internal/Joe_Gurney.md"
+    },
+    {
+      "name": "Lee Charters",
+      "file": "05-Areas/People/Internal/Lee_Charters.md"
+    },
+    {
+      "name": "Naidu Dasari Demudu",
+      "file": "05-Areas/People/Internal/Naidu_Dasari_Demudu.md"
+    },
+    {
+      "name": "Nitin Sharma",
+      "file": "05-Areas/People/Internal/Nitin_Sharma.md"
+    },
+    {
+      "name": "Piyush Srivastava",
+      "file": "05-Areas/People/Internal/Piyush_Srivastava.md"
+    },
+    {
+      "name": "Rajasekhar Samanaboyana Guru",
+      "file": "05-Areas/People/Internal/Rajasekhar_Samanaboyana_Guru.md"
+    },
+    {
+      "name": "Sandhya Neerukonda",
+      "file": "05-Areas/People/Internal/Sandhya_Neerukonda.md"
+    },
+    {
+      "name": "Sujith Kumar Puligilla",
+      "file": "05-Areas/People/Internal/Sujith_Kumar_Puligilla.md"
+    },
+    {
+      "name": "Seetha Vijay Kumar",
+      "file": "05-Areas/People/Internal/Seetha_Vijay_Kumar.md"
+    },
+    {
+      "name": "Yu Chen",
+      "file": "05-Areas/People/Internal/Yu_Chen.md"
+    },
+    {
+      "name": "Abhishek Adulapuram",
+      "file": "05-Areas/People/Internal/Abhishek_Adulapuram.md"
+    },
+    {
+      "name": "Bryan Koo",
+      "file": "05-Areas/People/Internal/Bryan_Koo.md"
+    },
+    {
+      "name": "Jitendra Anirudha Varma",
+      "file": "05-Areas/People/Internal/Jitendra_Anirudha_Varma.md"
+    },
+    {
+      "name": "John Morris",
+      "file": "05-Areas/People/Internal/John_Morris.md"
+    },
+    {
+      "name": "Michael Jaskiewicz",
+      "file": "05-Areas/People/Internal/Michael_Jaskiewicz.md"
+    },
+    {
+      "name": "Nilesh Sanjay Korpad",
+      "file": "05-Areas/People/Internal/Nilesh_Sanjay_Korpad.md"
+    },
+    {
+      "name": "Seshasai Yenumarla",
+      "file": "05-Areas/People/Internal/Seshasai_Yenumarla.md"
+    },
+    {
+      "name": "Grandhi Sai Baba",
+      "file": "05-Areas/People/Internal/Grandhi_Sai_Baba.md"
+    },
+    {
+      "name": "Suvro Dutta",
+      "file": "05-Areas/People/Internal/Suvro_Dutta.md"
+    },
+    {
+      "name": "Allu Kanaka Lova Satish",
+      "file": "05-Areas/People/Internal/Allu_Kanaka_Lova_Satish.md"
+    },
+    {
+      "name": "Dirk Carney",
+      "file": "05-Areas/People/Internal/Dirk_Carney.md"
+    },
+    {
+      "name": "Greg Wilson",
+      "file": "05-Areas/People/Internal/Greg_Wilson.md"
+    },
+    {
+      "name": "Joe Ozzello",
+      "file": "05-Areas/People/Internal/Joe_Ozzello.md"
+    },
+    {
+      "name": "John Paul Jai",
+      "file": "05-Areas/People/Internal/John_Paul_Jai.md"
+    },
+    {
+      "name": "Jon Jara",
+      "file": "05-Areas/People/Internal/Jon_Jara.md"
+    },
+    {
+      "name": "Karthikeya Matta",
+      "file": "05-Areas/People/Internal/Karthikeya_Matta.md"
+    },
+    {
+      "name": "May Hong",
+      "file": "05-Areas/People/Internal/May_Hong.md"
+    },
+    {
+      "name": "Nathan Kessler",
+      "file": "05-Areas/People/Internal/Nathan_Kessler.md"
+    },
+    {
+      "name": "Sean Kotze",
+      "file": "05-Areas/People/Internal/Sean_Kotze.md"
+    },
+    {
+      "name": "Steve Kirkpatrick",
+      "file": "05-Areas/People/Internal/Steve_Kirkpatrick.md"
+    },
+    {
+      "name": "Tim Will",
+      "file": "05-Areas/People/Internal/Tim_Will.md"
+    },
+    {
+      "name": "Bill OConnor",
+      "file": "05-Areas/People/Internal/Bill_OConnor.md"
+    },
+    {
+      "name": "Juhi Jaiswal",
+      "file": "05-Areas/People/Internal/Juhi_Jaiswal.md"
+    },
+    {
+      "name": "Ramesh_org",
+      "file": "05-Areas/People/Internal/Ramesh_org.md"
+    },
+    {
+      "name": "seshasai",
+      "file": "05-Areas/People/Internal/seshasai.md"
+    },
+    {
+      "name": "Merupula praveen",
+      "file": "05-Areas/People/Internal/Merupula_praveen.md"
+    },
+    {
+      "name": "Gajjala Aravinda Reddy",
+      "file": "05-Areas/People/Internal/Gajjala_Aravinda_Reddy.md"
+    },
+    {
+      "name": "Gowtham Kumar R",
+      "file": "05-Areas/People/Internal/Gowtham_Kumar_R.md"
+    },
+    {
+      "name": "Jangam Vivek",
+      "file": "05-Areas/People/Internal/Jangam_Vivek.md"
+    },
+    {
+      "name": "Janani Manickavasagam",
+      "file": "05-Areas/People/Internal/Janani_Manickavasagam.md"
+    },
+    {
+      "name": "Amjad Ali Khan",
+      "file": "05-Areas/People/Internal/Amjad_Ali_Khan.md"
+    },
+    {
+      "name": "#EnhanceDeliveryTeam",
+      "file": "05-Areas/People/Internal/#EnhanceDeliveryTeam.md"
+    },
+    {
+      "name": "Jen Hagaman",
+      "file": "05-Areas/People/Internal/Jen_Hagaman.md"
+    },
+    {
+      "name": "R Gowtham Kumar",
+      "file": "05-Areas/People/Internal/R_Gowtham_Kumar.md"
+    },
+    {
+      "name": "Chinnapareddy Mastan Reddy",
+      "file": "05-Areas/People/Internal/Chinnapareddy_Mastan_Reddy.md"
+    },
+    {
+      "name": "Mohan Korubilli",
+      "file": "05-Areas/People/Internal/Mohan_Korubilli.md"
+    },
+    {
+      "name": "TARUN REVU",
+      "file": "05-Areas/People/Internal/TARUN_REVU.md"
+    }
+  ],
+  "links_updated": [],
+  "errors": [],
+  "decisions_needed": [],
+  "statistics": {}
+}

@@ -1,0 +1,32 @@
+- Expedia
+- Joined as a IC, Java Fullstack dev
+- Mentor 6-7 people, part of team of 25
+- Transform monolith to service architecture
+- Entire SDLC
+- Built APIs from scratch
+- Seek approvals from stakeholders
+- Multiple tech stacks
+    - Java
+    - Springboots
+    - AWS
+    - Azure
+    - REST
+    - GRPC GeaphQL
+    - Event based comms
+        - Kafka
+        - RabbitMQ
+    - Databases
+        - Schemas
+        - Query optimization
+        - SQL / NoSql
+    - Front end
+        - Angular
+- Expedia
+    - Cruise ingestion
+    - Eventually consistent design
+    - Several local stores
+    - Originally part of the core backend team
+        - Services involved with ingestion
+- Experience breaking down monolith
+- Experience with MongoDB
+-

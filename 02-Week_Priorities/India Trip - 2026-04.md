@@ -1,0 +1,11 @@
+- High Level agenda
+	- IPA team
+		- LLM based document understanding kickoff:
+			- AI-Native environment and process
+			- Architecture Approach
+			- Goals, Requirements, Context engineering
+	- Meet with all other teams
+		- Q2 roadmap - what is on your plate and on your mind?
+		- Start talking about how to get to Autonomy
+	- Discuss ICS - Feasibility of a simulation  / test in Q2
+	- Communication about all the recent re-orgs, changes etc. in other teams. There is a general sense of unease.

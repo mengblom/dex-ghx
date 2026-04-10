@@ -1,0 +1,91 @@
+- Intro
+	- Marten intro
+	- Daniel intro
+	- Rituparna
+		- Auto-zone
+		- Greenfield
+		- Modernization to microservices
+- Any questions on GHX based on what you have learned?
+	- No, I didn't know anything about GHX originally... but I have learned a fair bit through the interviews
+	- Exciting with the mission criticality of GHX
+- You state "hand-on" - what do you mean by "hands-on"?
+	- I have 3 teams
+	- Feature development + Maintenance
+	- 50 + microservices
+	- I took ownership of some of these services, I took 5 team members
+	- While at the same time handling the other 2 teams
+	- Worked closely with my architect
+	- Took ownership of tech decisions, tech stack choices
+	- Worked closely with my team, and my architect
+	- Getting approvals from the architecture review board
+	- Also doing microservices development myself
+	- Springboard migrations/upgrades
+	- CI/CD pipeline upgrades
+	- I personally took ownership of some less critical tasks myself
+- Claud native?
+	- Mostly cloud native
+	- Kafka was on-prem
+	- Did not use GCP PubSub, used Confluent Kafka
+	- Enterprise Reddis
+	- So a mix of cloud native and hosted
+- Biggest challenge with this project?
+	- Not very experienced engineers
+	- Had to start with a lot of training
+	- Once we got AI assistance, things got easier
+- Technical challenges - you mentioned observability?
+	- Distributed tracing
+		- Wanted to stream this into Dynatrace
+		- Issues with setting up log collector
+		- Got help from Dynatrace setting that up
+		- Then we had issues with retention
+- Once the log aggregator was set up, how did you solve for tracing issues back to the correct microservice?
+- What is the troubleshooting process today?
+	- We have alerting set up
+	- Health check on each service
+	- Alerting -> email to leads and managers
+	- Look at dashboards (each microservice has dashboards)
+	- Can dig deeper if needed
+- Coaching and mentoring
+	- I kind of know how the engineers are performing
+	- I know which ones go above and beyond... taking interest in other stories etc.
+	- I tend to engage harder with these individuals, to help growing their potential, bring them in front of leadership, give public positive feedback
+	- What about lower performers?
+		- I definitely have experience with this
+		- People not making process
+		- Will not address this publicly
+		- If not responding to this, I might have to create a PIP
+			- Very clear expected outcomes
+- What is the biggest differentiator between a low/mid level engineer (up to Senior) and higher level (Staff+)
+	- eager to understand the outcomes
+	- talking to stakeholders
+	- going above and beyond
+	- takes ownership outside immediate area of responsibility
+	- knows the tech stack well
+	- works cross functionally... working with devops etc.
+	- doesn't need that much direction, self-driven
+- How do you work cross-functionally today?
+	- Regular cadence with end-users
+	- Regular syncs with stakeholders
+	- Removing roadblocks for the team
+		- Examples with access tickets etc. 
+	- Doesn't mention Product here at all... a little concerning
+	- What about Product?
+		- I work closely with product for new feature requests
+		- Again... could not get her to go any deeper here... 1 sentence answer :/
+- How do you work with senior leadership
+	- 1x1s with some of them
+	- Sprint demos are more for the product owners
+	- Have status calls with my senior leadership and my peers
+	- Sometimes project specific weekly reports
+- What about when leadership asks you for a new project
+	- ...
+- Any questions for us?
+	- Understand 50-50 hands-on vs management
+	- How big will the team be?
+		- 4-6 engineer
+
+
+Notes:
+- Communication a little shaky... but probably due to nervousness 
+- She mentioned working with her architect multiple times... that is a big concern for me. In this role, she needs to BE the architect. 
+- I didn't get great signal around her perspective on agile ways of working. For example, one concern was her statement "sprint demos are more for the product owners"... that is not aligned with the industry perspective. 

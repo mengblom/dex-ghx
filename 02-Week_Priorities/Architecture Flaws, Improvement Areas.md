@@ -1,0 +1,13 @@
+- We are batch processing events
+	- Examples:
+		- Data Poller
+	- We are allowing ebbs and flows, surges etc., to propagate through the system
+- We don't have good enough log monitoring and alerting
+	- Example: 
+		- [[BROKEN-606] Exchange - 810 Scheduled Delivery – Batch Failures - Jira](https://prd.workflow.ghx.com/browse/BROKEN-606) 
+		- A whole batch of (1000s) invoices failed.
+		- We didn't know about it until ***more*** than 7 days later. And only after it was raised by the customer. To make matters worse, the channel for this is through Product
+		- Our logs (Graylog) are only retained for 7 days
+		- We 
+- Health checks at the service level
+- 

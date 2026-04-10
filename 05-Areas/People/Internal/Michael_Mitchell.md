@@ -1,0 +1,15 @@
+---
+name: Michael Mitchell
+company: GHX
+internal: true
+---
+
+## Context
+[Add context about Michael Mitchell]
+
+## Meetings
+- [[2026-03-03 - Hiring (JDs, Interview Pools etc.)]]
+
+## Related Projects
+
+## Action Items

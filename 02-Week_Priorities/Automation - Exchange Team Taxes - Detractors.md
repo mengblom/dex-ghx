@@ -1,0 +1,18 @@
+- The monolith
+    - Coordination
+    - Testing
+- Testing and verification
+- The Perf Environment
+- Mapping
+    - Requires engineering effort, code deployment
+- EU Exchange
+- Homegrown commodity components
+    - Service Bus
+    - IdP
+    - Feature flags
+- Architecture Issues
+    - Almost duplicated functionality (BT/BD - Audit)
+- Tools
+    - File Validator
+- Unmerged PRs - backlog
+    - DevOps doing the merging

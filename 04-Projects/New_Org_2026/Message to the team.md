@@ -1,0 +1,3 @@
+- 1 EM per team
+    - Talk about the machine
+-

@@ -1,0 +1,36 @@
+- Exchange Platform resiliency is hampered by:
+    - We are incredibly slow to release: Deployment Frequency and Lead Time for Changes are both poor. The root causes are:
+        - Monolithic code base - teams are constrained by shared release processes and monolithic dependencies… lots of coordination, and lots of risk.
+        - Very slow and heavy testing & release process. Due to the monolithic code base, the releases have lots of risk (both because the volume of changes in each release, and because unknown dependencies etc.). This has forced is into an incredibly heavy testing and verification process.
+            - The entire monolith has to be regression tested.
+            - We rely on wide spanning end-to-end integration tests, many of which are executed from the UI layer. This makes them very unpredictable, brittle and hard to maintain.
+        - Tech debt
+            - Have traditionally done very little proactive maintenance (refactoring, upgrades etc.). This work has always been deferred in favor of new commercial work (new features etc.)
+    - Too many balls in the air, competing priorities, leading to priorities coming from multiple sources/voices, leading to shifting marching orders
+    - We have saddled ourselves with a lot of maintenance:
+        - Large backlogs of incident related remediations/fixes
+        - Large backlog of security vulnerabilities (infrastructure and OSS)
+        - Homegrown systems and components, that arguably have off-the-shelf solutions or alternatives:
+            - IdP / SSO
+            - Event bus
+        - We have adopted some very blunt (and therefore expensive and laborious) solutions to problems:
+            - Lift and shift to the cloud, as opposed to cloud-native serverless and seamlessly scalable infrastructure. VMs are expensive to deploy to, we are now in charge of their maintenance, patching etc. They also do not scale. And are expensive.
+            - The Performance Environment: a complete replica of the production environment (this is partially due to the monolithic system making it impossible to load test, or scale, parts of the system independently). Very cumbersome to spin up and down, keep in a runnable and production-comparable state. And expensive.
+            - The EU environment is not just a byte-for-byte separate deployment - it has
+    - In other words, it takes us a long time to improve the platform and remediate issues when we find them.
+- Plan to get to a better place:
+    - Team
+        - We need to get to a place where we have autonomous teams that operate independently, make decisions locally, prioritize effectively, and move forward without unnecessary dependencies or coordination overhead. Where the teams have well defined, loosely coupled areas of ownership that they have complete agency over, build, deploy, and operate completely independently of each other.
+        - As part of this reorg we will do a reverse Conway Maneuver
+        - Each team will have a dedicated player-coach Engineering Manager
+        - Each team will be tasked with unshackle themselves and move towards autonomy
+    - Ways of working
+        - Improve intake process - ensure all work (current and backlog) is in Jira, where everything can be prioritized against each other, in one place. We are partnering closely with Product on this.
+        - Improve transparency and reporting: Ensure stakeholders and management can understand our competing priorities, and see how all the work is stack ranked. The teams will now be left alone in their sprints (no unplanned work in the middle of the sprint). It will also force decisions - there can only be 1 top priority etc.
+        - Introduce an Agile Maturity Model to drive and measure improvements - we are doing OK with our agile process, but there are lots of improvements to make, which will lead to higher velocity.
+    - Tech
+        - Short term:
+            - More test automation. Converting automated tests from Tandori to Playwright for more reliable tests. We are looking to leverate Agentic AI here. Nevertheless, this will be incremental improvements, not a game changer.
+            - Incremental database improvements: Separating workloads onto multiple instances for load distribution. MongoDB to Atlas migration for (arguably) better performance.
+        - The only way to get to a truly "great place" is to break apart the monolith:
+            - The Reverse Conway Maneuver is intended to set this in motion. We will also aim to break off 1 piece from the monolith and rebuild it as cloud-native, stand-alone service.

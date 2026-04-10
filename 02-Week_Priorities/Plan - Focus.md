@@ -1,0 +1,18 @@
+- Organization
+    - Need 1 player-coach manager for each team
+- Databases
+    - Need a complete inventory and usage etc.
+    - Stabilizing
+    - Optimizing
+    - No ORMs for bulk operations / set queries / analytics queries etc.
+- Monolith
+    - Carve out 1 piece and rebuild according to "what good looks like"
+- Ways of working
+    - Need Initiative level in Jira!
+    - Need comprehensive roadmap (Product owns this)
+    - Agile Impovements
+        - Sprint goals + a few bullets for each sprint… communicated out.
+        - Make sprint reviews more fun, more attended, more of an event
+- World Class Engineering Team
+    - Agile Maturity Model?
+- AI Native Development

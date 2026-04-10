@@ -1,0 +1,23 @@
+- Got a call from CJ
+	- Stryker is under a Cyber attack
+	- Covered in the Wall Street Journal etc.
+- Questions:
+	- Can we disable anyone logging into the Stryker MEX account?
+		- How? Is there a run book etc.?
+			- Easy to do, granular per 
+				- MEX
+					- Meaning any User facing UI (User Management Access)
+				- Document Processing
+					- Incoming
+					- Outgoing 
+				- Reg Center
+				- 15-20 minutes once we get the directive
+				- Turn back on:
+					- Easy
+					- Can (probably) enforce a PWD reset
+		- If we do, how do we bring them up etc.? Any issues to think about?
+	- How do we do this for all their accounts etc.?
+		- ePay - they use their own SSO
+		- IBR (would get stopped with MEX)
+		- can we selectively shut down MEX, ePay etc.
+		- 

@@ -1,0 +1,18 @@
+- The Exchange Pod
+- Laura Taylor
+- The eInvoicing team
+    - Moderate with us
+    - Karen Mullen
+    - Jamien Sha
+    - Bharat
+- Implementation support team
+    - Andy Rassiano
+    - Will Cass
+    - Their job is to get new customers set up (providers or suppliers)
+- Customer Support
+- Sales Team
+    - Denise
+    - Bishop
+- Customer Experience
+    - Andy ???
+    - Christy Linner

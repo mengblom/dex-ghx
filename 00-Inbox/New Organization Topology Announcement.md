@@ -1,0 +1,4 @@
+- Where are we / what are we trying to solve
+	- Monolith
+- Goals
+	- Autonomous teams

@@ -1,0 +1,38 @@
+- Write down the reasons for the exceptions
+	- Mike only having 2 reports
+	- Aaron only having 2 reports
+- Agreement that EMs should be hands on - they are de-facto tech leads
+	- Let's write down the expectation - align it with what Eric is doing (expectations of AI)
+	- What does "hands-on" mean
+		- Commit code to production
+- 2 things need to be crystal clear and summarized in 1 page
+	- Frame the whole thing as the outcomes we want to achieve
+		- Need to summarize in the end:
+			- Higher resiliency (scalability, stability, fault tolerance, security - all measured by SLOs)
+				- Compliance to SLOs
+			- Higher speed
+				- Deployment frequency
+				- Lead time to change
+			- Lower cost
+				- Labor
+				- Non-labor
+					- Hosting / Infra
+					- Embedded software (Tableau)
+	- What is different now
+		- EMs are more hands on
+			- (along with the hands-on definition)
+		- ... fill this in...
+- Target architecture
+	- Including what is top-down
+	- vs. what is left to the team
+- Org changes clarification
+	- Alignment with infrastructure (Arshad's team)
+		- Aaron and Arshad need to put pen to paper
+	- Alignment Product
+	- No non-engineering roles in Engineering
+- For each of the teams - have them write down they are accountable for
+	- If they own services, they should have clear outcomes and metrics they are accountable for
+	- Service metrics
+		- Written down
+	- Adoption metrics
+		- Example: MFA for SSO - is everyone using our SSO solution

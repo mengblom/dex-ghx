@@ -1,0 +1,21 @@
+- Good comminication
+- 40+ Microservices
+- Bridge between architects in US and engineers in HYD
+- Expertise: Highly resilient microservices
+- Tech lead: 6-8 people
+- Strength
+    - Scalability, observability of Microservices
+    - AND, scalable front end applications
+- AI?
+    - Have build decument understanding POC
+    - Assisted dev?
+        - GitHub Copilot
+        - Md files
+        - Context in the repo
+        - Humas have to review
+- Good thoughts about culture US/IND
+    - The shy effect
+- Strengths
+    - Technical analysis
+    - Great debugger
+    -

@@ -1,0 +1,37 @@
+- Strategy
+    - _Principals matter because it enables autonomous decisions_ - CJ Singh
+    - Daniel Pink…
+    - Move closer to the company… more a strategic business partner… can only happen if we are more agile
+    - Goals/expectations
+      
+    - Need to get faster
+        - Pay down the tech debt / dig out from maintenance/vulnerabilities/incident issues
+        - Reduce testing and certification
+        - Break the monolith
+        - More auto test coverage
+        - AI
+    - Reorg to Autonomous Teams, with clear ownership boundaries
+    - 1EM per team
+        - Time to be engaged / player coach
+    - Agile process
+    - Reduce Taxes
+        - maintenance/vulnerabilities/incident issues
+        - Homegrown commodity components
+    - AI
+    - Hiring
+    - Visibility/ Transparency to the work
+    - Cloud native
+    - AI native development
+    - VALIDATE THIS: Everything in exchange is atomic to a document. There is nothing that should have informative issues.
+    - Lower environments should only be used for SDLC, not operations (integration etc.)
+    - Team philosophy
+        - Autonomous
+        - QA?
+        - DevOps? Will change with more cloud native
+        - Enabling teams
+            - Developer Platform & AI Enablement
+            - Data Architecture & Engineering
+        - Platform teams?
+            - Service bus etc.?
+      
+![Principles That Guide Us Accelerate Autonomous Dec...](Exported%20image%2020260225180001-0.jpeg)

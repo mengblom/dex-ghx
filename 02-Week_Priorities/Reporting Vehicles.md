@@ -1,0 +1,32 @@
+# Main #
+- Quarterly Roadmap Planning
+	- [Q2 - 2026 Roadmap Planning.xlsx](https://ghx365.sharepoint.com/:x:/r/sites/AutomationProductManagement/Shared%20Documents/Planning%202026/Q2%20-%202026%20Roadmap%20Planning.xlsx?d=w286bcc559de64de48c94ddf24a351762&csf=1&web=1&e=Y5nmac)
+- P&T Capacity Pie Chart
+	- Example: [Quarterly Planning - GHX Technology - Confluence](https://prd.hub.ghx.com/wiki/spaces/GT/pages/122094059/Quarterly+Planning)
+- Quarterly Progress Checkin
+	- Example: [Q1 26 Progress Check-in.xlsx](https://ghx365.sharepoint.com/:x:/r/sites/AutomationProductManagement/Shared%20Documents/Planning%202026/Q1%2026%20Progress%20Check-in.xlsx?d=wb803cc2adf594b50a34d05948601e26f&csf=1&web=1&e=nNK4oE)
+- Product & Tech Scorecard (monthly)
+	- Example: [Feb2026_Balanced_Scorecard.pptx](https://ghx365.sharepoint.com/:p:/r/sites/BalancedProductTechScorecard/Shared%20Documents/Scorecards/2026%20Scorecards/Feb2026_Balanced_Scorecard.pptx?d=we5299ab146f143bfb8de7b41ff1071ee&csf=1&web=1&e=VJf02z)
+- Exchange Review Deck (monthly)
+	- Example: [Exchange Update WIP.pptx](https://ghx365-my.sharepoint.com/:p:/r/personal/cnielsen_ghx_com/Documents/2-Areas/Exchange/Updates/Exchange%20Update%20WIP.pptx?d=wb08c76ab92e247ef895e2a9685c86ecd&csf=1&web=1&e=oUjUDN)
+- Monthly Pod Review (monthly)
+	- Example: [Monthly Pod Review - Automation - Feb 2026.pptx](https://ghx365.sharepoint.com/:p:/r/sites/ProductManagementOperations/Shared%20Documents/Product%20Pods/Monthly%20Product%20Reviews/2026/February/Monthly%20Pod%20Review%20-%20Automation%20-%20Feb%202026.pptx?d=w9eae0b7d73264a1bb682ab54a3d8c78a&csf=1&web=1&e=S4KGlJ)
+- Monthly Exchange Update (monthly)
+	- Email
+- Pod Operations Meeting (really just an update) (weekly)
+- OKRs / Workboard (weekly)
+- Email update to CJ (~weekly)
+- Jira
+
+# Other #
+- Sprint Reviews
+- Weekly incident updates
+- Monthly Infra vulnerabilities update
+- Monthly OSS vulnerabilities update
+- Monthly VM vulnerabilities update
+- City Map
+- Tech Debt Registry
+- Hiring Update
+- Hosting Forecast (monthly)
+	- [2026 Hosting Forecast.xlsx](https://ghx365.sharepoint.com/:x:/r/sites/GHXFinTech/Shared%20Documents/2026%20Hosting%20Forecast.xlsx?d=w7f08f45a7d8546298ffa738ce28f24fc&csf=1&web=1&e=eoTg87) 
+- [Exchange Audit Dashboard - Jira](https://prd.workflow.ghx.com/jira/dashboards/10284) 

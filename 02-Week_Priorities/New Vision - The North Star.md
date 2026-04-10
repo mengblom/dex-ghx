@@ -1,0 +1,20 @@
+- People
+    - Autonomous teams
+    - EM per team
+    - 1 dedicated product partner overseeing the scope of ownership per team
+- Process
+    - All work in 1 place (Jira) - one backlog to rule them all
+    - Sanctity of a sprint
+    - Each team responsible for quality
+    - Each team responsible for operations
+    - Each team responsible for monitoring
+- Technology
+    - We need much looser coupling
+        - The monolith has to go
+        - We need to get away from shared databases
+    - Service oriented architecture
+    - We need simplified SDLC
+        - We should not need the Performance Environment
+        - We should not need the Integration Environment - "ephemeral flows"
+	- Uniform eventing/messaging
+		- Tracability / i.e. correlation

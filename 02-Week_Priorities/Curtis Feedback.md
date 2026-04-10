@@ -1,0 +1,16 @@
+- Any way to show/quantify dependencies
+- Question from the teams:
+	- How do we become autonomous
+	- How do we answer the dedicated product person question
+- Need to polish up Initial Team Missions
+- How to clarify what each team does, without getting too detailed
+- Need to explain the "Infra / IaC that is near application teams"
+	- Maybe draw that out
+- Message about the contractors?
+	- "We are investing in Exchange"
+- Anticipated questions from CJ
+	- How do you measure the progress here?
+	- My answers
+		- DORA
+		- More stability
+		- Faster delivery

@@ -1,0 +1,8 @@
+- 6 Enterprise Priorities
+    - Cyber Security
+    - …
+    - …
+    - Exchange Resiliency
+    - Invoice & Payment
+    - Employee Experience
+        - Glint score

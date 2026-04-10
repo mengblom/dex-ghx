@@ -1,0 +1,108 @@
+- Intros
+	- Maren
+	- Daniel
+	- Kooper
+		- Been a manager for 6 yers
+		- Fintech
+			- Scaled up to 3 teams
+			- UI funnel, top of funnel backend
+			- Pricing domain
+		- Before that, developer for 10 years or so
+			- Primarily on the backend
+- You mention "hands-on leadership" - what do you mean by "hands-on"?
+	- Depends on the team and the expeirence leve
+	- Always means getting involved with architecture reviews, design etc.
+	- For example, when I had 3 teams, I was more abstracted
+	- If I work with 1 team, especially more juniors, then I work closer with them
+	- I like to stay as technical as possible
+	- Where do you bring the most value technically?
+		- I operate across the stack?
+		- I do have good experience with UI
+		- But am more weighted towards the backend... there is where I was as an IC
+		- Very good in Java
+		- Also Python, NodeJS
+		- Also AI, experience integrating with AI, also building models
+		- Have built model as a service in the pricing domain at Geico
+		- Have architected a replacement for AI powered search
+			- Building an AI powered platform from the ground up.
+- How do you think about IC vs. Management? Managing 3 teams vs 1?
+	- I go back and forth... sometimes I wonder if I should just be an IC
+	- With that said, I liked managing 3 teams because the org impact.
+	- Drove a project that increased the company revenue by 20%... that kind of impact is great.
+	- Also do like the more strategic aspect of leadership.
+	- So net net, I probably want to grow to managing a larger org... but thoughtfully.
+- Our IC progression is Sr -> Staff -> Principal. How do you think about what differentiates these levels, peoples ability to lead etc.?
+	- I want to understand people's aspirations... do they have a desire to level up.
+	- Most Seniors do not think of that as a terminal level.
+	- Most companies have a set of guidelines for each level
+	- Dissect those guideline with the individual
+	- Plan to get there
+	- Usually give then 6 months plan
+	- Looking for:
+		- Independence
+		- Mentorship of others
+		- Sr->Staff means not only subject matter expert, but helping others
+		- Writing tickets, ability to estimate tasks
+		- Architecture reviews
+		- Setting and enforcing conventions etc.
+- What do you mean by taking ownership?
+	- Do not let something languish
+	- Seek out clarification if needed
+	- Or make educated assumptions etc.
+- What about accountability?
+	- The root of accountability is expectations - make sure the expectations are clear. That usually takes care of accountability, the task getting done.
+	- If not, starts with 1x1 feedback.
+	- Can go into low performing situations as well... but usually doesn't go that far with the right feedback.
+- You mention your core competency as performance, availability scalability. Please explain what this means to you?
+	- Performance: things like latency 
+	- Scalability: systems ability to adjust to load
+	- Reliability: how quickly can you recover from a failure
+	- All covered in the DORA metrics
+- Blockers to reliability?
+	- Poor observability, poor logging, alerting etc. 
+		- Observability is tricky to get right - noise vs signal
+	- Team's inexperience with debugging, finding issues etc.
+	- Technical issues with the CI/CD process... makes fixing/remediation harder.
+	- What about architecturally? 
+		- Not typically impacting the reliability?
+- Your resume lists Postgres, DynamoDB, MongoDB, Redis, and Elasticsearch. Walk me through how you decide which datastore is the system of record for a new service?
+	- Depends on the use case of the service
+	- High throughput -> DynamoDB
+	- Transaction data that needs consistency, or complex queries -> SQL
+	- NoSQL scales horizontally much better than SQL
+	- Mongo, document store. Structured queries supported, more freeform than Dynamo
+		- Harder to horizontally scale... 
+	- Elastic more of an in-memory, searching
+		- Also gives you vectorize the data (RAG for LLM)
+- Breaking up a monolith experience?
+	- I have experience, and strong opinions on this
+	- Original plan was 6 months... ended up taking 18 months
+	- Strangled out microservices, but it scaffolded the data back to the monolith -> meaning we polluted the new system with data/fields that were only needed because of the data back to the monolith
+	- My suggested was to not scaffold back to the monolith, just build new and verify the input-output
+	- Did you get into the conversation about modular monolith vs. actual microservices
+- How do you view the EM in the larger context of Product, Stakeholder
+	- Triad: Engineering - Product - Design
+	- Also other ancillary teams: 
+		- Data engineering
+		- Data science
+		- BI
+	- Have worked in both systems as it relates to product: Product within Engineering, and as separate orgs
+	- Great thoughts here!
+- Mechanisms for keeping senior management up to date
+	- Frequent status updates
+	- Like to have some autonomy... too detailed status can be burdensome
+	- 1x1s with key stakeholders if needed
+	- Things are getting more and more automated... if we can automate status updates that is great. Mining from Jira etc.
+- Questions for us?
+	- What is the expectation on reporting out, status reports etc.?
+	- Daniel, what is your management style, how do you operate?
+
+
+Notes:
+- Communication is great. Articulate, thoughtful, well-paced way of speaking. Super easy to follow.
+- Have experience with POCs, including cost considerations, MVPs etc.
+- AI / agentic experience, with taking something from POC to prod 
+	- Cursor
+- Has real, recent, deep experience with breaking apart a monolith... strangler pattern etc.
+- Very on-point experience and opinions on the EM role in the larger context
+- In general, Kooper has very relevant experience, both for what we are trying to do / problems to solve, and from a what good looks like / modern engineering ways of working perspective.
