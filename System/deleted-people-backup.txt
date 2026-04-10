@@ -1,0 +1,161 @@
+DELETED PERSON PAGES BACKUP
+============================================================
+
+To restore a person page:
+1. Create 05-Areas/People/Internal/Firstname_Lastname.md
+2. Add basic frontmatter and meeting links
+
+DELETED:
+------------------------------------------------------------
+#EnhanceDeliveryTeam (1 meetings) - #EnhanceDeliveryTeam.md
+Aaqeeb Jawed (1 meetings) - Aaqeeb_Jawed.md
+Aaron Srivastava (2 meetings) - Aaron_Srivastava.md
+Abhishek Adulapuram (1 meetings) - Abhishek_Adulapuram.md
+Akash Jaiswal (1 meetings) - Akash_Jaiswal.md
+Alexa Swihart (2 meetings) - Alexa_Swihart.md
+Alexis Hull-Stone (1 meetings) - Alexis_Hull-Stone.md
+Allu Kanaka Lova Satish (1 meetings) - Allu_Kanaka_Lova_Satish.md
+Alyssa Kucky (1 meetings) - Alyssa_Kucky.md
+Amanda Burkett (1 meetings) - Amanda_Burkett.md
+Amjad Ali Khan (1 meetings) - Amjad_Ali_Khan.md
+Anand Nayak (1 meetings) - Anand_Nayak.md
+Annie Leong (1 meetings) - Annie_Leong.md
+Bill OConnor (1 meetings) - Bill_OConnor.md
+Boris Blankenstein (1 meetings) - Boris_Blankenstein.md
+Brandon Fortunato (1 meetings) - Brandon_Fortunato.md
+Brandon J. Jolly (1 meetings) - Brandon_J._Jolly.md
+Brian Moran (1 meetings) - Brian_Moran.md
+Bryan Koo (1 meetings) - Bryan_Koo.md
+Bryan Loughry (2 meetings) - Bryan_Loughry.md
+Camron Moore (1 meetings) - Camron_Moore.md
+Chantell Markert (2 meetings) - Chantell_Markert.md
+Chinnapareddy Mastan Reddy (1 meetings) - Chinnapareddy_Mastan_Reddy.md
+Chris  Wandel (1 meetings) - Chris__Wandel.md
+Daniel Tench (1 meetings) - Daniel_Tench.md
+Dilip Gandham (1 meetings) - Dilip_Gandham.md
+Dirk Carney (1 meetings) - Dirk_Carney.md
+Divya Bhatia (2 meetings) - Divya_Bhatia.md
+Don Bell (1 meetings) - Don_Bell.md
+Donald Bell (1 meetings) - Donald_Bell.md
+Doug Weber (1 meetings) - Doug_Weber.md
+Duy Nguyen (2 meetings) - Duy_Nguyen.md
+Eric Steele (1 meetings) - Eric_Steele.md
+Eric Wehler (1 meetings) - Eric_Wehler.md
+Erik Huybrechts (1 meetings) - Erik_Huybrechts.md
+Erik Truby (1 meetings) - Erik_Truby.md
+Eswar Ram Govind Vaddi (1 meetings) - Eswar_Ram_Govind_Vaddi.md
+Gagantrisul Duddukuri (1 meetings) - Gagantrisul_Duddukuri.md
+Gajjala Aravinda Reddy (1 meetings) - Gajjala_Aravinda_Reddy.md
+Gaurav Saini (2 meetings) - Gaurav_Saini.md
+Glenn Sorensen (0 meetings) - Glenn_Sorensen.md
+Gowtham Kumar R (1 meetings) - Gowtham_Kumar_R.md
+Graham Gilmour (2 meetings) - Graham_Gilmour.md
+Grandhi Sai Baba (1 meetings) - Grandhi_Sai_Baba.md
+Greg Thompson (1 meetings) - Greg_Thompson.md
+Greg Wilson (2 meetings) - Greg_Wilson.md
+Gregg Starkel (1 meetings) - Gregg_Starkel.md
+Gregory Wilson (2 meetings) - Gregory_Wilson.md
+Hannah Bentley (1 meetings) - Hannah_Bentley.md
+Hari Prasad Narasapu (1 meetings) - Hari_Prasad_Narasapu.md
+Hemanth Kumar Gudipelli (1 meetings) - Hemanth_Kumar_Gudipelli.md
+Ian MacLaughlin (1 meetings) - Ian_MacLaughlin.md
+Inna Skoroda (1 meetings) - Inna_Skoroda.md
+Jacob Norton (1 meetings) - Jacob_Norton.md
+Jamie Collins (2 meetings) - Jamie_Collins.md
+Janani Manickavasagam (1 meetings) - Janani_Manickavasagam.md
+Jangam Vivek (1 meetings) - Jangam_Vivek.md
+Jen Hagaman (1 meetings) - Jen_Hagaman.md
+Jennifer Hagaman (2 meetings) - Jennifer_Hagaman.md
+Jitendra Anirudha Varma (1 meetings) - Jitendra_Anirudha_Varma.md
+Jitendra Kumar Pradhan (1 meetings) - Jitendra_Kumar_Pradhan.md
+Joe Comsti (2 meetings) - Joe_Comsti.md
+Joe Gurney (1 meetings) - Joe_Gurney.md
+Joe Ozzello (1 meetings) - Joe_Ozzello.md
+Johans Bautista (1 meetings) - Johans_Bautista.md
+John Morris (1 meetings) - John_Morris.md
+John Paul Jai (2 meetings) - John_Paul_Jai.md
+John White (1 meetings) - John_White.md
+Jon Jara (1 meetings) - Jon_Jara.md
+Jonathan Fitch (1 meetings) - Jonathan_Fitch.md
+Jude Shelton Nevis (2 meetings) - Jude_Shelton_Nevis.md
+Juhi Jaiswal (1 meetings) - Juhi_Jaiswal.md
+Julia Chernin (2 meetings) - Julia_Chernin.md
+Kaka Bala Sai Krishna (1 meetings) - Kaka_Bala_Sai_Krishna.md
+Karthikeya Matta (1 meetings) - Karthikeya_Matta.md
+Kevin Bobbitt (2 meetings) - Kevin_Bobbitt.md
+Kyle Way (2 meetings) - Kyle_Way.md
+Laura Taylor (2 meetings) - Laura_Taylor.md
+Lee Charters (1 meetings) - Lee_Charters.md
+Leela Mohan Macharla (2 meetings) - Leela_Mohan_Macharla.md
+Lindsey Wallace (1 meetings) - Lindsey_Wallace.md
+Lydia Holmstrand (2 meetings) - Lydia_Holmstrand.md
+Mark Ford (1 meetings) - Mark_Ford.md
+Mark McLean (1 meetings) - Mark_McLean.md
+Mark Savastano (1 meetings) - Mark_Savastano.md
+Marlin Doner (0 meetings) - Marlin_Doner.md
+Matthew D. Gibson (2 meetings) - Matthew_D._Gibson.md
+Matthew Turner (2 meetings) - Matthew_Turner.md
+May Hong (1 meetings) - May_Hong.md
+Merupula praveen (1 meetings) - Merupula_praveen.md
+Michael Jaskiewicz (1 meetings) - Michael_Jaskiewicz.md
+Michael Rauner (1 meetings) - Michael_Rauner.md
+Michal Seligson (2 meetings) - Michal_Seligson.md
+Mike Lusche (1 meetings) - Mike_Lusche.md
+Mohammed Shaik (1 meetings) - Mohammed_Shaik.md
+Mohan Korubilli (1 meetings) - Mohan_Korubilli.md
+Mukesh Burnwal (1 meetings) - Mukesh_Burnwal.md
+Naidu Dasari Demudu (1 meetings) - Naidu_Dasari_Demudu.md
+Nathan Kessler (1 meetings) - Nathan_Kessler.md
+Nathan Letcher (1 meetings) - Nathan_Letcher.md
+Nathan Teeter (1 meetings) - Nathan_Teeter.md
+Nattawut Ngampatipatpong (1 meetings) - Nattawut_Ngampatipatpong.md
+Nicholas Portillo (1 meetings) - Nicholas_Portillo.md
+Nicole Cesa (1 meetings) - Nicole_Cesa.md
+Nilesh Korpad (1 meetings) - Nilesh_Korpad.md
+Nilesh Sanjay Korpad (1 meetings) - Nilesh_Sanjay_Korpad.md
+Nitin Sharma (1 meetings) - Nitin_Sharma.md
+Padmanabha Rao (1 meetings) - Padmanabha_Rao.md
+Piyush Srivastava (1 meetings) - Piyush_Srivastava.md
+Praffulkumar Somani (1 meetings) - Praffulkumar_Somani.md
+Prathibadevi Thiagarajan (1 meetings) - Prathibadevi_Thiagarajan.md
+R Gowtham Kumar (1 meetings) - R_Gowtham_Kumar.md
+Radha Krishna Mannemala (2 meetings) - Radha_Krishna_Mannemala.md
+Rajasekhar Samanaboyana Guru (1 meetings) - Rajasekhar_Samanaboyana_Guru.md
+Rajesh Kannan K (1 meetings) - Rajesh_Kannan_K.md
+Ramesh org (0 meetings) - Ramesh_org.md
+Ravi Patel (1 meetings) - Ravi_Patel.md
+Ravindra Singh Rathore (1 meetings) - Ravindra_Singh_Rathore.md
+René Gand (1 meetings) - René_Gand.md
+Rick Salcido (1 meetings) - Rick_Salcido.md
+SUNEEL KUMAR Suneel (1 meetings) - SUNEEL_KUMAR_Suneel.md
+Sandhya Neerukonda (1 meetings) - Sandhya_Neerukonda.md
+Scott Woodrich (1 meetings) - Scott_Woodrich.md
+Sean Kotze (1 meetings) - Sean_Kotze.md
+Seetha Vijay Kumar (2 meetings) - Seetha_Vijay_Kumar.md
+Selvaganesh Mariappa Paramasivan (1 meetings) - Selvaganesh_Mariappa_Paramasivan.md
+Selvakumar Samiappan (1 meetings) - Selvakumar_Samiappan.md
+Seshasai Yenumarla (1 meetings) - Seshasai_Yenumarla.md
+Shakamuri Divya (1 meetings) - Shakamuri_Divya.md
+Shaun Janicki (2 meetings) - Shaun_Janicki.md
+Sheik Akbar Pasha (1 meetings) - Sheik_Akbar_Pasha.md
+Srikanth Kalakonda (1 meetings) - Srikanth_Kalakonda.md
+Steve Kirkpatrick (1 meetings) - Steve_Kirkpatrick.md
+Sujith Kumar Puligilla (2 meetings) - Sujith_Kumar_Puligilla.md
+Suresh Chettur (1 meetings) - Suresh_Chettur.md
+Suvro Dutta (1 meetings) - Suvro_Dutta.md
+Swastik Bihani (2 meetings) - Swastik_Bihani.md
+TARUN REVU (1 meetings) - TARUN_REVU.md
+Tapas Subhashis Kar (1 meetings) - Tapas_Subhashis_Kar.md
+Tim Shanahan (1 meetings) - Tim_Shanahan.md
+Tim Will (1 meetings) - Tim_Will.md
+Tomas Bojda (1 meetings) - Tomas_Bojda.md
+Tristan Nunn (1 meetings) - Tristan_Nunn.md
+Tsolak Petrosian (2 meetings) - Tsolak_Petrosian.md
+Uday Madhyala (1 meetings) - Uday_Madhyala.md
+Valerie White (1 meetings) - Valerie_White.md
+Vik Vasudeva (2 meetings) - Vik_Vasudeva.md
+Vikas Bogelli (1 meetings) - Vikas_Bogelli.md
+Will Emmel (2 meetings) - Will_Emmel.md
+Yu Chen (2 meetings) - Yu_Chen.md
+Zachary Knarr (2 meetings) - Zachary_Knarr.md
+seshasai (1 meetings) - seshasai.md

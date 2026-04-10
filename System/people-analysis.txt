@@ -1,0 +1,212 @@
+PERSON PAGE ANALYSIS
+============================================================
+
+SIGNIFICANT (66)
+------------------------------------------------------------
+Aaqeeb Jawed: 1 meetings, score=3
+Abhishek Adulapuram: 1 meetings, score=3
+Akash Jaiswal: 1 meetings, score=3
+Allu Kanaka Lova Satish: 1 meetings, score=3
+Bill OConnor: 1 meetings, score=3
+Brandon Fortunato: 1 meetings, score=3
+Bryan Koo: 1 meetings, score=3
+Chris  Wandel: 1 meetings, score=3
+Dirk Carney: 1 meetings, score=3
+Erik Truby: 1 meetings, score=3
+Gagantrisul Duddukuri: 1 meetings, score=3
+Gajjala Aravinda Reddy: 1 meetings, score=3
+Gowtham Kumar R: 1 meetings, score=3
+Grandhi Sai Baba: 1 meetings, score=3
+Greg Wilson: 1 meetings, score=3
+Gregory Wilson: 1 meetings, score=3
+Hemanth Kumar Gudipelli: 1 meetings, score=3
+Inna Skoroda: 1 meetings, score=3
+Janani Manickavasagam: 1 meetings, score=3
+Jangam Vivek: 1 meetings, score=3
+Jitendra Anirudha Varma: 1 meetings, score=3
+Jitendra Kumar Pradhan: 1 meetings, score=3
+Joe Gurney: 1 meetings, score=3
+Joe Ozzello: 1 meetings, score=3
+Johans Bautista: 1 meetings, score=3
+John Morris: 1 meetings, score=3
+John Paul Jai: 1 meetings, score=3
+John White: 1 meetings, score=3
+Jon Jara: 1 meetings, score=3
+Juhi Jaiswal: 1 meetings, score=3
+Julia Chernin: 1 meetings, score=3
+Karthikeya Matta: 1 meetings, score=3
+Lee Charters: 1 meetings, score=3
+Mark McLean: 1 meetings, score=3
+May Hong: 1 meetings, score=3
+Merupula praveen: 1 meetings, score=3
+Michael Jaskiewicz: 1 meetings, score=3
+Mohammed Shaik: 1 meetings, score=3
+Mukesh Burnwal: 1 meetings, score=3
+Naidu Dasari Demudu: 1 meetings, score=3
+Nathan Kessler: 1 meetings, score=3
+Nathan Teeter: 1 meetings, score=3
+Nilesh Sanjay Korpad: 1 meetings, score=3
+Nitin Sharma: 1 meetings, score=3
+Piyush Srivastava: 1 meetings, score=3
+Praffulkumar Somani: 1 meetings, score=3
+Rajasekhar Samanaboyana Guru: 1 meetings, score=3
+Ramesh org: 1 meetings, score=3
+Ravindra Singh Rathore: 1 meetings, score=3
+Rick Salcido: 1 meetings, score=3
+SUNEEL KUMAR Suneel: 1 meetings, score=3
+Sandhya Neerukonda: 1 meetings, score=3
+Sean Kotze: 1 meetings, score=3
+Seetha Vijay Kumar: 1 meetings, score=3
+Seshasai Yenumarla: 1 meetings, score=3
+Shakamuri Divya: 1 meetings, score=3
+Sheik Akbar Pasha: 1 meetings, score=3
+Srikanth Kalakonda: 1 meetings, score=3
+Steve Kirkpatrick: 1 meetings, score=3
+Sujith Kumar Puligilla: 1 meetings, score=3
+Suvro Dutta: 1 meetings, score=3
+Tim Will: 1 meetings, score=3
+Tsolak Petrosian: 1 meetings, score=3
+Vikas Bogelli: 1 meetings, score=3
+Yu Chen: 1 meetings, score=3
+seshasai: 1 meetings, score=3
+
+
+MODERATE (0)
+------------------------------------------------------------
+
+
+MINIMAL (133)
+------------------------------------------------------------
+#EnhanceDeliveryTeam: 1 meetings
+Aaron Srivastava: 1 meetings
+Alexa Swihart: 1 meetings
+Alexis Hull-Stone: 0 meetings
+Ali Inam: 1 meetings
+Alyssa Kucky: 1 meetings
+Amanda Burkett: 1 meetings
+Amjad Ali Khan: 1 meetings
+Anand Nayak: 1 meetings
+Ankur Singh: 1 meetings
+Annie Leong: 0 meetings
+Arivazhagan Jeganathan: 1 meetings
+Arshad Mahammad: 1 meetings
+Balaji Venkata Narasimhan: 1 meetings
+Balaji Venkatesan: 1 meetings
+Ben Ludkiewicz: 1 meetings
+Bharat Sharma: 1 meetings
+Boris Blankenstein: 1 meetings
+Brandon J. Jolly: 1 meetings
+Brian Moran: 0 meetings
+Bryan Loughry: 1 meetings
+CJ Singh: 1 meetings
+Camron Moore: 1 meetings
+Chantell Markert: 1 meetings
+Chinnapareddy Mastan Reddy: 1 meetings
+Christine Zhou: 1 meetings
+Curtis Nielsen: 1 meetings
+Daniel Milburn: 1 meetings
+Daniel Tench: 1 meetings
+Deepika Rani: 1 meetings
+Dhaval Shah: 1 meetings
+Dilip Gandham: 1 meetings
+Divya Bhatia: 1 meetings
+Don Bell: 1 meetings
+Donald Bell: 1 meetings
+Doug Weber: 1 meetings
+Duy Nguyen: 1 meetings
+Eric Arrington: 1 meetings
+Eric Steele: 1 meetings
+Eric Wehler: 1 meetings
+Erik Huybrechts: 1 meetings
+Eswar Ram Govind Vaddi: 1 meetings
+Gaurav Saini: 1 meetings
+Glenn Sorensen: 0 meetings
+Graham Gilmour: 1 meetings
+Greg Thompson: 1 meetings
+Gregg Starkel: 1 meetings
+Gregory Bank: 1 meetings
+Gururaj N: 1 meetings
+Hannah Bentley: 1 meetings
+Hari Prasad Narasapu: 0 meetings
+Ian MacLaughlin: 1 meetings
+Jacob Norton: 1 meetings
+Jaimin Shah: 0 meetings
+Jamie Collins: 1 meetings
+Jeff Sherard: 1 meetings
+Jen Hagaman: 1 meetings
+Jennifer Hagaman: 1 meetings
+Joe Comsti: 1 meetings
+Jonathan Fitch: 1 meetings
+Jude Shelton Nevis: 1 meetings
+Kaka Bala Sai Krishna: 1 meetings
+Karthi Arumugam: 1 meetings
+Kevin Bobbitt: 1 meetings
+Kyle Way: 1 meetings
+Laura Taylor: 0 meetings
+Laura Voegerl: 1 meetings
+Leela Mohan Macharla: 0 meetings
+Lindsey Wallace: 1 meetings
+Lydia Holmstrand: 1 meetings
+Mark Ford: 1 meetings
+Mark Savastano: 1 meetings
+Marlin Doner: 0 meetings
+Matthew D. Gibson: 0 meetings
+Matthew Turner: 1 meetings
+Mayank Gaur: 1 meetings
+Michael Katzenbach: 1 meetings
+Michael Knarr: 1 meetings
+Michael Mitchell: 1 meetings
+Michael Rauner: 1 meetings
+Michal Seligson: 1 meetings
+Mike Lusche: 1 meetings
+Mohan Korubilli: 1 meetings
+Munib Ali: 1 meetings
+Nathan Letcher: 1 meetings
+Nattawut Ngampatipatpong: 1 meetings
+Nicholas Portillo: 1 meetings
+Nicole Cesa: 1 meetings
+Nicole Healy: 1 meetings
+Nilesh Korpad: 1 meetings
+Padmanabha Rao: 1 meetings
+Paul Bobbitt: 1 meetings
+Pete Ferguson: 1 meetings
+Philippe Scoffie: 1 meetings
+Prashanth Garlapati: 0 meetings
+Prathibadevi Thiagarajan: 1 meetings
+Pratik Panchal: 1 meetings
+R Gowtham Kumar: 1 meetings
+Radha Krishna Mannemala: 0 meetings
+Rajesh Kannan K: 1 meetings
+Ramesh Donnipadu: 0 meetings
+Ramesh Rangavithal Donnipadu: 1 meetings
+Ravi Patel: 1 meetings
+René Gand: 1 meetings
+Rishitha Musunuri: 1 meetings
+Sandra Chronister: 1 meetings
+Sarah Ridgway: 1 meetings
+Scott Woodrich: 1 meetings
+Selvaganesh Mariappa Paramasivan: 1 meetings
+Selvakumar Samiappan: 1 meetings
+Senthil Arunachalam: 1 meetings
+Seth Hudman: 1 meetings
+Shaun Janicki: 1 meetings
+Sneha Das: 1 meetings
+Suresh Chettur: 1 meetings
+Suresh Kumar: 1 meetings
+Swastik Bihani: 1 meetings
+TARUN REVU: 1 meetings
+Tapas Subhashis Kar: 1 meetings
+Tasha Reynolds: 1 meetings
+Taylor Hammond: 1 meetings
+Thien La: 1 meetings
+Thiyagarajan Murugan: 1 meetings
+Tim Shanahan: 1 meetings
+Tomas Bojda: 1 meetings
+Tristan Nunn: 1 meetings
+Uday Madhyala: 1 meetings
+Valerie White: 1 meetings
+Venmathi Vijayakumar: 1 meetings
+Vignesh Arunachalam: 1 meetings
+Vik Vasudeva: 1 meetings
+Will Emmel: 1 meetings
+Zachary Knarr: 1 meetings
