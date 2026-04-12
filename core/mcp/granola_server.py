@@ -378,14 +378,14 @@ def read_granola_cache() -> Optional[Dict[str, Any]]:
     if not GRANOLA_CACHE.exists():
         logger.debug("Cache file not found")
         return None
-    
+
     try:
         raw_data = GRANOLA_CACHE.read_text()
         cache_wrapper = json.loads(raw_data)
-        
-        # The cache has a nested structure: { cache: JSON_STRING }
-        cache_data = json.loads(cache_wrapper.get('cache', '{}'))
-        
+
+        # Cache structure changed in v6 - cache is now a direct object, not a JSON string
+        cache_data = cache_wrapper.get('cache', {})
+
         logger.debug("Successfully read cache file")
         return {
             'documents': cache_data.get('state', {}).get('documents', {}),
