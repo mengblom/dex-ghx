@@ -1,0 +1,14 @@
+{
+  "id": "daf7f292-4629-4a0f-a0d4-868c0daa8ba6",
+  "title": "IPA acceleration",
+  "createdAt": "2026-03-27T17:38:35.936Z",
+  "updatedAt": "2026-03-27T17:54:11.250Z",
+  "notes": "### IPA Product Crisis & Acceleration Strategy\n\n- Business risk escalating due to outdated IPA system\n\n- Customers actively seeking alternative solutions\n- Error rates and gaps with DHX creating customer dissatisfaction\n- Current cloud transition roadmap extends to 2028\n- Risk of losing customers before completion\n- Strategic pivot to startup approach\n\n- Abandon legacy system constraints\n- Build new product from scratch\n- Focus on customer interviews and rapid development\n- Leverage AI tools for accelerated delivery\n\n### Technical Challenges & Dependencies\n\n- Complex business rules deeply embedded in current system\n\n- Legacy if-then statements intertwined with document processing\n- Rules guide actual extraction, not just post-processing transformations\n- Cannot simply replace document understanding without addressing rule dependencies\n- Hidden dependencies creating development complexity\n\n- Sunk cost fallacy preventing clean restart\n- 10-year-old assumptions proving incorrect\n- Need to start fresh rather than retrofit\n\n### Team & Resource Allocation\n\n- Key personnel identified for acceleration\n\n- Swar leading ground operations with Rada (product)\n- Aaron’s AI expertise critical when he returns from vacation\n- Ragav potentially helpful if available\n- Greg Thompson (customer experience) pushing for rapid solution\n- Startup-style team swarming approach\n\n- Cross-functional collaboration with product, customer support\n- Full product development beyond just technical features\n- Potential India trip for intensive working sessions\n\n### Strategic Alignment with CJ’s Priorities\n\n- Three special project lanes identified\n\n1. IPA acceleration\n2. Exchange resiliency\n3. Content initiatives\n- Discussion needed on project prioritization\n\n- Exchange resiliency seen as “easiest win” with Aaron leading\n- IPA presents significant business case with high attention\n- Capacity management across initiatives\n\n### Next Steps\n\n- Curtis to resolve travel restrictions with CJ after board meeting (March 22nd)\n- Consider Aaron joining India trip directly from Portugal vacation\n- Coordinate with Swar and Rada on project organization\n- Determine final project lane allocation and resource commitment\n\nChat with meeting transcript: https://notes.granola.ai/t/476feee9-956e-41f2-b144-24bf4ed78f93",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

@@ -56,8 +56,8 @@ meeting_processing:
   # Mode: "automatic" (notes appear in your vault within 30min) or "manual" (run /process-meetings)
   mode: manual
 
-  # API provider for automatic mode: gemini, anthropic, or openai
-  api_provider: gemini
+  # API provider for manual mode: uses active Bedrock session (no background automation)
+  api_provider: bedrock
 
 # Meeting Intelligence Configuration
 # Controls what gets extracted from your meetings (set during onboarding based on role)

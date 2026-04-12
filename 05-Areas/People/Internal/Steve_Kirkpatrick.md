@@ -1,15 +1,14 @@
 ---
-name: Ali Inam
+name: Steve Kirkpatrick
 company: GHX
 internal: true
 ---
 
 ## Context
-Jeff Sherard is mentoring Ali as his successor for managing GHX India offshore team and Happiest Minds managed services partner.
+Works with Jeff Sherard on AWS/Atlas/Elastic cost operations analysis (monthly review). Part of shared services infrastructure team.
 
 ## Meetings
 - [[2026-04-06/Jeff_Sherard_Interview_Principal_Data_Engineer|Interview: Jeff Sherard for Principal Software Engineer - Data]] — 2026-04-06 (mentioned)
-- [[2026-03-04 14.02 - Post Incident Review '26 - Earlier Time for IN & EU]]
 
 ## Related Projects
 

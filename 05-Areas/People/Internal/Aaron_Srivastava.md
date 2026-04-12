@@ -64,8 +64,9 @@ Software engineer at heart with experience in healthcare industry since college.
 
 ## Meeting History
 
-- [[2026-03-13 10.07 - 2026-03-13 Onboarding Aaron Srivastava]]
+- [[2026-04-10/IPA_Introduction_to_MSOT_and_PriceSync_workflows|IPA - Introduction to MSOT and PriceSync workflows]] — 2026-04-10
 - [[2026-03-30 09.07 - HM proposal on outcome based engagement for IPA]]
+- [[2026-03-13 10.07 - 2026-03-13 Onboarding Aaron Srivastava]]
 
 ---
 

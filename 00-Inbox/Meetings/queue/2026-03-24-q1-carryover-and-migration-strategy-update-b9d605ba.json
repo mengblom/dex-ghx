@@ -1,0 +1,14 @@
+{
+  "id": "b9d605ba-fcb9-42b5-8002-6dd996745353",
+  "title": "Q1 carryover and migration strategy update",
+  "createdAt": "2026-03-24T18:03:25.880Z",
+  "updatedAt": "2026-03-24T18:57:10.636Z",
+  "notes": "### Meeting Format & Structure Changes\n\n- New “two in a box” reporting structure implemented\n\n- Product team reports on commercial aspects\n- Technology team reports on execution aspects\n- Monthly format will evolve gradually rather than immediate overhaul\n- Josh will handle new product introduction topics going forward\n\n### Technology Team Updates\n\n- Disaster recovery planning now underway\n- Strong hiring progress made\n\n- Aaron started yesterday\n- Two new engineering managers starting in two weeks\n- Vulnerability management improvements\n\n- Resolved significant backlog after 6-week measurement gap\n- New process: weekly planning meetings now include\n\n1. Pete bringing incident resolution work\n2. Jason (Kyle’s proxy) bringing critical cyber vulnerability work\n3. Critical backlog items for systematic resolution\n\n### Atlas Migration & Budget Impact\n\n- Migration scope expanded from lift-and-shift to four separate cloud databases\n- Financial implications significant\n\n- Lost $500K in support contract credits\n- Added $800K this year + $1M+ annual run rate going forward\n- Currently paying $130K/month for end-of-life support\n- Two-part migration challenge\n\n- MongoDB migrations extended to August (originally April/May)\n- Elasticsearch migration pushed to September\n- Bottleneck: Organ Event team busy with RegCenter migration\n\n### Resource Constraints & Trade-offs\n\n- RegCenter customer transaction resend feature blocked\n\n- Would reduce customer support load significantly\n- Visibility team oversubscribed with Core UI work\n- Potential solution: additional contractor funding for UI work\n- Communication dysfunction identified\n\n- Email chain from Smith & Nephew escalated unnecessarily through CPO/CTO\n- Should have gone through product organization first\n- Steer Code meeting moved Thursday → Friday\n\n- Will discuss Q2 plan trade-offs and DR work disruption risks\n\nChat with meeting transcript: https://notes.granola.ai/t/51333109-bbc5-45b3-9535-b256f9fdb9b3",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

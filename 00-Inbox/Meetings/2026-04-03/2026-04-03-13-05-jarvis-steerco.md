@@ -1,0 +1,104 @@
+---
+date: 2026-04-03
+time: 19:06
+type: meeting-note
+source: granola
+title: "2026-04-03 13.05 Jarvis Steerco"
+participants: []
+company: ""
+pillar: "AI-Native Development"
+duration: 5
+granola_id: 1f848150-c098-4806-9b31-5a57118e53db
+processed: 2026-04-12T17:15:00.000Z
+---
+
+# 2026-04-03 13.05 Jarvis Steerco
+
+**Date:** 2026-04-03 19:06
+
+---
+
+## Summary
+
+Jarvis SteerCo meeting covering AI rollout progress across GHX engineering. Key topics: Anthropic enterprise contract signed (rollout target next Friday), roadmap acceleration plans for automation/content/payments teams, Claude usage cost tracking ($90K/month trending toward $1M/year budget), and tech debt city map/register finalization ahead of surge funding ask.
+
+## Key Discussion Points
+
+### Anthropic Enterprise Migration
+- NDA signed, contract expected today/Monday
+- Jamie and Eric have rollout plan ready
+- Alpha testing with low-level users, broader rollout target: next Friday
+- Will enable faster tool approvals (Jira connections, etc.) once contract in hand
+- Cost model largely unchanged (~3% discount over Bedrock)
+
+### Roadmap Acceleration via AI
+- Focus areas: Automation (dependency mapping to reduce rework), Content (new reports, VDT acceleration), Invoice & Payment 3.0
+- Eric, Daniel, and Mårten to meet Monday to finalize dependency mapping approach
+- Milestone requirement: Needle-moving business impact that Curtis can present to board, not granular tech debt
+- Don Bell identified content areas, JMON/PM team needs more discussion on invoice/payment priorities
+
+### Claude Usage & Cost Management
+- [[Steve_Kirkpatrick]] enabled usage tracking via AWS Bedrock
+- Current: $90K/month with 484 users, but many using <20 API calls/week while power users hit 5,000+
+- Concern: Cost doubling month-over-month, unclear when it plateaus
+- Budget: Originally $500K, now $1M for the year (runs out ~end of year at current burn)
+- Next focus: Context management training (cheaper + better output), efficiency tools in Claude GitHub repo
+- Need to shift from cost conversation to value conversation
+
+### Tech Debt City Map & Surge Funding
+- City map ~50% done (QA reveals definition inconsistencies across portfolios)
+- Tech debt register ~50% done (some teams filled it, others only provided surge funding items)
+- Surge funding ask 90%+ complete (prioritized biggest impact items)
+- **Key clarification**: Surge funding number is solid even though city map incomplete - big buckets identified
+- **New priorities**: 
+  1. Summarize, categorize, and prioritize detailed tech debt spreadsheet for board presentation
+  2. Rationalize against PWC report findings
+  3. Continue city map/registry work in parallel (make "right way the easy way" long-term)
+
+## Decisions Made
+
+- Target rollout date for Anthropic enterprise: Next Friday (assuming contract arrives this week)
+- Hold heads-up communication until contract is signed (learned from process delays)
+- Eric owns the $1M AI budget going forward
+- Roadmap milestones for automation/content/payments to be finalized next week with product leaders (Don, Karen, Jamon)
+- Tech debt work split into two tracks:
+  - **Track 1 (priority)**: Bharata & Curtis create one-slide summary of tech debt (categorized, prioritized, rationalized to PWC)
+  - **Track 2 (parallel)**: Greg continues city map/registry QA and finalization
+- CJ, Bharata, Curtis, Greg to meet Thursday next week to review both tracks
+
+## Action Items
+
+### For Me
+- [ ] Meet with Eric and Daniel on Monday to finalize dependency mapping approach for roadmap acceleration ^task-20260403-001
+- [ ] Review tech debt one-slide summary from Bharata/Curtis ahead of Thursday meeting ^task-20260403-002
+
+### For Others
+- [ ] @Eric: Send Anthropic rollout plan/communication once contract signed
+- [ ] @Eric: Finalize roadmap milestones with Don Bell (content), Karen/Don Bailey (invoice/payment), Jamon (time zone coordination needed)
+- [ ] @Eric & Jamie: Create weekly Jarvis email to tech org (topics: what's available via wiki, new functionality/skills, gold standard use cases, industry changes/best practices)
+- [ ] @Steve Kirkpatrick: Investigate token-level cost metrics (currently only have API call counts)
+- [ ] @Bharata & Curtis: Create one-slide tech debt summary (summarized, categorized, prioritized, rationalized to PWC) by Thursday
+- [ ] @Greg: Continue city map QA and tech debt registry finalization (parallel track)
+- [ ] @CJ: Schedule Thursday meeting with Greg, Bharata, Curtis to review tech debt work
+
+## Pillar Assignment
+
+AI-Native Development
+
+Rationale: Meeting primarily focused on Jarvis platform rollout, AI usage/cost management, and roadmap acceleration through AI-assisted development - core AI adoption strategy.
+
+---
+
+## Raw Content
+
+<details>
+<summary>Transcript (14,327 words)</summary>
+
+Hello folks. Hello folks. Just in case. Just in case. There he is. Sorry everyone. All right. All right. Looks like we have a quorum. We have a quorum. Not surprisingly Eric has most of these action items so you are the star of the show sir would you like to kick us off with an update? Not surprisingly Eric has most of these action items so you are the star of the show sir which I'd like to. Kick us off with an update...
+
+[Truncated for length - full transcript in Granola]
+
+</details>
+
+---
+*Processed by Dex Meeting Intel (API source)*

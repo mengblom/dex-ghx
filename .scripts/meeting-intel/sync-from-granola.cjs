@@ -736,12 +736,12 @@ Be concise but thorough. Extract real insights, not generic summaries. If someth
 async function analyzeWithLLM(meeting, profile, pillars) {
   const { generateContent, isConfigured, getActiveProvider } = require('../lib/llm-client.cjs');
 
-  if (!isConfigured()) {
-    throw new Error('No LLM API key found. Set ANTHROPIC_API_KEY, OPENAI_API_KEY, or GEMINI_API_KEY in .env');
+  if (!await isConfigured()) {
+    throw new Error('No LLM provider available. Configure AWS credentials for Bedrock, or set ANTHROPIC_API_KEY, OPENAI_API_KEY, or GEMINI_API_KEY in .env');
   }
 
   const prompt = buildAnalysisPrompt(meeting, profile, pillars);
-  const provider = getActiveProvider();
+  const provider = await getActiveProvider();
 
   try {
     log(`Analyzing ${meeting.title} with ${provider}...`);

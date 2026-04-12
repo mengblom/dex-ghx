@@ -1,16 +1,14 @@
 ---
-name: Ramesh Rangavithal Donnipadu
+name: Sadhana Unknown
 company: GHX
 internal: true
 ---
 
 ## Context
-[Add context about Ramesh Rangavithal Donnipadu]
+Part of IPA team working on MSOT and Price Sync workflows.
 
 ## Meetings
 - [[2026-04-10/IPA_Introduction_to_MSOT_and_PriceSync_workflows|IPA - Introduction to MSOT and PriceSync workflows]] — 2026-04-10
-- [[2026-04-06/OKR_Planning_Session_Q2_2026|OKR Planning Session - Q2 2026]] — 2026-04-06
-- [[2026-03-06 09.03 - Claude Code DU Demo with Eric]]
 
 ## Related Projects
 

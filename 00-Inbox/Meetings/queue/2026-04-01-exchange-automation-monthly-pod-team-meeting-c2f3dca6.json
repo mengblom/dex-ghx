@@ -1,0 +1,14 @@
+{
+  "id": "c2f3dca6-b9a1-4998-b351-51634e499c12",
+  "title": "Exchange Automation Monthly Pod Team Meeting",
+  "createdAt": "2026-04-01T16:03:09.134Z",
+  "updatedAt": "2026-04-01T16:26:26.638Z",
+  "notes": "### Q1 Defect & Enhancement Management — Completed\n\n- Weekly intake and estimation cadence established with problem management + engineering teams\n- Defect backlog reduced from 120 → 70+; 15 critical defects prioritized for Q2\n- Enhancement backlog reduced from 960 → 317 ideas (~66% burn-down)\n\n- 371 items now in backlog; ~88 planned (stats to be shared with slides)\n\n### Emergent Request Process — New\n\n- New intake channel for urgent, unclassified issues (not clearly a defect or enhancement) arising during customer implementations or ERP migrations\n- Previously handled ad hoc via Slack/email — unreliable and untracked\n- Process: submit via existing ghxide.io portal under new “GHX Exchange Emergent Request” option\n\n- 8–10 fields: issue type, description, GHX Advantage flag, product area, customer impact, severity (critical/major/minor), optional Jira/Salesforce ID\n- Product team reviews submissions weekly; comments/status updates posted back in portal\n- Piloted with one request via Microsoft Forms — worked; full rollout pending\n- Alexis flagged anticipated pushback: “injecting red tape when I need an answer right now”\n\n- Consistency across products (Exchange, e-invoicing) could be a key talking point to counter this\n- Alexis keen to adopt a similar model for her team if rollout goes well\n- Shoutout to Luke for standing up the portal pathway\n\n### Q2 Priorities & Roadmap\n\n- Salesforce → Jira → Aha integration: automate status updates when defects/enhancements are created\n- Define SLAs for defect and enhancement resolution\n- Build self-serve dashboard: backlog, resolved items, pending status — reduces need for weekly manual updates; useful for customer communication\n- Share documented processes with all stakeholders (imminent)\n- Ongoing: effective defect prioritization and enhancement triage\n\n### Next Steps\n\n- Neila\n\n- Share process documentation with stakeholders\n- Report back on emergent request rollout reception (pushback, adoption) — follow-up topic for next month’s or the month after’s pod call\n- Build self-serve dashboard (Q2 target, acknowledged as aggressive)\n- Build Salesforce–Jira–Aha integration\n- Establish defect/enhancement SLAs\n- Alexis\n\n- Offline follow-up with Laura/team on emergent request process\n- All attendees\n\n- Submit topic suggestions for future monthly pod meetings to Laura\n\nChat with meeting transcript: https://notes.granola.ai/t/a054e54a-00df-4671-8fed-c5fef25dd60e",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "Exchange Automation Monthly Pod Team",
+  "duration": 5,
+  "source": "api"
+}

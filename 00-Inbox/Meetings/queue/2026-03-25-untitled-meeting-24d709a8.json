@@ -1,0 +1,14 @@
+{
+  "id": "24d709a8-c96a-4cf9-a5ab-496d128f7cb5",
+  "title": "Untitled Meeting",
+  "createdAt": "2026-03-25T16:39:24.330Z",
+  "updatedAt": "2026-03-25T17:07:04.022Z",
+  "notes": "### Migration Project Context & Constraints\n\n- Large-scale data migration with significant post-processing requirements\n- CJ approved additional funding for up to 7 contractors from Happiest Minds only\n- Must be outcome-based engagement, not time & material\n- Hard deadline: End of year (current UiPath/First Source contracts expire)\n\n- 11 million documents processed annually\n- Current system sends many docs to First Source for manual processing at high cost\n\n### Vendor Relationships & History\n\n- First Source: 10+ year outsourcing partner for C Extreme\n\n- Handles document scanning, digitization, EDI conversion\n- Receives documents when IPA confidence thresholds not met\n- Happiest Minds background:\n\n- Originally acquired SMI (company that built many DHX systems)\n- Current exchange team being built to replace Happiest Minds contractors in 9-15 months\n- SMI founders left after acquisition, started BeAutomate\n- BeAutomate POC details:\n\n- Zero-dollar POC ran 3-4 months\n- Burned $100K+ in infrastructure costs\n- Trained on 100K samples (50-70K purchase orders, 20-30K invoices)\n- Executive decision made not to move forward with their solution\n\n### Internal Development Strategy\n\n- Team built LLM-based solution in 2 weeks using Claude\n- Strong preference to keep core learning internal vs outsourcing to contractors\n- Key technical challenges:\n\n- Extracting complex business rules from UiPath activities\n- Moving post-processing logic to Python\n- Extensive QA testing requirements for 11M annual documents\n- Crawl-walk-run approach preferred over big bang implementation\n\n### Happiest Minds Evaluation Criteria\n\n- Meeting scheduled for Monday morning to hear their proposal\n- Critical evaluation questions:\n\n1. Do they bring genuine LLM expertise we lack?\n2. Can they significantly accelerate project velocity?\n3. Or are they learning on the job like internal team would?\n- Alternative approach: Use contractors for grunt work to free internal engineers for core development\n- High business value project for reputation and cost savings\n- Risk reduction: Fewer customer documents sent offshore\n\nChat with meeting transcript: https://notes.granola.ai/t/7f55089c-0b86-4b02-b924-cd2f28d22b43",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "Untitled",
+  "duration": 5,
+  "source": "api"
+}

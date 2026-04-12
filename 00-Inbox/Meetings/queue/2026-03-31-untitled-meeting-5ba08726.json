@@ -1,0 +1,14 @@
+{
+  "id": "5ba08726-b5ce-4faf-82a7-f0f53b88c989",
+  "title": "Untitled Meeting",
+  "createdAt": "2026-03-31T17:04:21.497Z",
+  "updatedAt": "2026-03-31T17:29:20.927Z",
+  "notes": "### Team Autonomy Discussion Feedback\n\n- Morning presentation went well overall\n\n- Positive questions from team\n- No negative feedback observed\n- Key concerns raised:\n\n1. Workload balance - autonomy work vs other priorities\n2. Past attempts - “tried 3 times before, new projects derailed progress”\n3. Infrastructure questions - devops needs per team (answered: minimal work required)\n- Daniel provided valuable team context and color\n\n### Cultural Shift Challenge\n\n- Major insight: team waiting for top-down project assignments\n\n- Many expecting formal “break from monolith” projects\n- Need grassroots approach instead\n- Required mindset change:\n\n- Engineers must advocate for autonomy work themselves\n- Negotiate with product/stakeholders for time\n- Treat as engineering hygiene, not special projects\n- Engineering managers will help drive this cultural shift\n\n### Leadership Stress & India Trip\n\n- CJ under pressure with Veritas alignment work\n\n- Whole leadership team aligning goals with Veritas\n- Creating solid value plan going forward\n- Denver meeting planned to establish baseline\n- Considering Palantir engagement to accelerate progress\n- India trip unlikely due to CJ wanting team in same timezone\n\n- Uncertainty driving need for people nearby\n- One week absence seen as too disruptive currently\n\n### Search Funding & Architecture Plans\n\n- Funding approach: stake-in-ground with 55 contractor roles\n\n- Reasonable estimates given AI tools and expertise\n- Sequenced implementation after EM hiring\n- Not budget neutral - “walking through valley of shadow of death”\n- Architecture excitement building\n\n- Questions about team boundaries and event bus\n- Informal architecture group planned\n- Cross-team observability discussions needed\n- DevOps centralization concerns\n\n- Potential friction if teams blocked by central team availability\n- Need fluid operations at team pace\n- Current exchange DevOps team needs strengthening\n\nChat with meeting transcript: https://notes.granola.ai/t/4f08978a-fece-4b40-a294-6a1516893788",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "Untitled",
+  "duration": 5,
+  "source": "api"
+}

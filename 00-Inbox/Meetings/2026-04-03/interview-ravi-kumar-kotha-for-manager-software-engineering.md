@@ -1,0 +1,140 @@
+---
+date: 2026-04-03
+time: 18:01
+type: meeting-note
+source: granola
+title: "Interview: Ravi Kumar Kotha for Manager, Software Engineering - Java, AWS, CI/CD"
+participants: ["Laura Voegerl"]
+company: ""
+pillar: "Engineering Organization"
+duration: 5
+granola_id: 909c21f2-bdae-463f-83a6-c7a9765122ae
+processed: 2026-04-12T17:20:00.000Z
+---
+
+# Interview: Ravi Kumar Kotha for Manager, Software Engineering
+
+**Date:** 2026-04-03 18:01
+**Participants:** [[Laura_Voegerl]], Mårten Engblom
+**Company:** Candidate Interview
+
+---
+
+## Summary
+
+Technical interview with Ravi Kumar Kotha for Manager, Software Engineering role. Candidate has 17+ years at Zebra/Motorola (2005-2023), currently at Fannie Mae (2 years) leading microservices migration. Strong hands-on leader who delivered 3 products ($12M ARR) at Zebra, transitioned from IC to management in challenging environment (team reduced to 4). Currently helping Fannie Mae modernize legacy monolith to microservices with focus on agile, AI adoption, and autonomous team structures.
+
+## Key Discussion Points
+
+### Background & Career Trajectory
+- **Zebra Technologies/Motorola**: 17 years, started as IC, became go-to person, team lead, then manager (2018 restructure)
+- **NFL Player Tracking**: Led platform/solutions team, delivered 3 products from zero to one, $12M+ ARR
+- **Career break**: 2023-2024 for personal/family reasons
+- **Fannie Mae** (current, 2 years): Technical focus, microservices migration from legacy monolith
+- **Location**: Sacramento area (near UC Davis)
+
+### Management Philosophy & Style
+- **Leadership inspiration**: Directors at Motorola who stayed hands-on while leading
+- **Transition challenges**: Lost manager during restructure, team cut to 4 engineers, had to prove leadership externally while coding internally
+- **Balance**: Prefers mix of hands-on technical work and leadership (currently more technical at Fannie Mae)
+- **Goal setting**: Align team goals with company objectives, clear/measurable/achievable, quarterly reviews, adjust based on performance
+- **Rituals**: Monthly 1:1s, frequent casual conversations (remote bonding), celebrate milestones, encourage video-on
+- **Ownership**: Leads by example, expects accountability, looks for efficiency opportunities
+
+### Product Partnership Evolution
+- **Early mistakes**: Hesitant to say no, over-promised and under-delivered
+- **Learning**: How to negotiate, position team for success, work with empathy
+- **Prioritization**: Focus on customer impact, pick high-impact/low-effort tasks first, defer ambiguous work to backlog
+- **Ownership split**: Product owns customer priorities, Engineering owns technical implementation
+- **Push-back example**: NCAA championship game broadcast integration - negotiated to exclude broadcaster integration (too risky/tight timeline), kept rostering/tagging features. Product team initially unhappy but understood risk to product reputation.
+- **Agile collaboration**: Product present in standups, sprint planning, grooming; Customer Operations team also embedded
+
+### Microservices Migration at Fannie Mae
+
+**Context:**
+- Legacy monolith with slow deployments, tight team dependencies, scaling challenges
+- Multiple functional areas (ingestion, scoring, ML) all modernizing independently
+- Ravi's team: Ingestion side (every appraisal flows through system)
+
+**Approach:**
+- Domain-driven design (vs. technical layers)
+- Proof of concept first to validate approach
+- Strangler fig pattern: Abstract layer between new microservices and monolith
+- Slow traffic migration (gradual rollover vs. big bang)
+- Focus on observability, tracing, audit compliance (financial industry requirements)
+
+**Challenges:**
+- Friction with product team (speed vs. modernization)
+- Operational overhead (monitoring multiple services vs. one app)
+- Feature freeze discipline (avoid adding to legacy during migration)
+- Team resistance initially (some saw benefits once deployments accelerated)
+- Downstream consumer readiness
+
+**Results:**
+- Deployment frequency: Quarterly → Weekly/continuous
+- Smaller, iterative releases
+- Better incident response and audit trail
+- Required shift in product team mindset (smaller chunks, more frequent planning)
+
+### AI Adoption & Philosophy
+
+**Current usage:**
+- Heavy Claude + Copilot adoption at Fannie Mae
+- Team concerned about losing cognitive skills (Ravi counters: like Google/Stack Overflow, tool for speed)
+- Focus: Remember logic/design/architecture, not specific library methods
+- Guardrails: Individual accountability for submitted code, thorough code review, test coverage validation
+
+**Management approach:**
+- Internal showcases demonstrating time savings (weeks → days)
+- Encourages embracing AI for productivity
+- Caution on verbose AI-generated code (example: AI generated 100+ test cases, only needed 10-12 for coverage)
+- Expanding usage: Code reviews, Jira story generation from requirements
+
+**Product impact:**
+- Product team happy with increased velocity
+- Product team concerned about stability (addressed with automated checks on every branch)
+- Still writing epics/stories (may change as product adopts AI tools)
+
+### Planning & Estimation
+- **Quarterly planning**: 2-day sessions, capture epics aligned to business goals, identify dependencies across teams
+- **Epic sizing**: T-shirt (S/M/L)
+- **Story pointing**: 1-5 scale (max 5 = full sprint), based on complexity/criticality not time
+- **Historical velocity**: Use past quarters to estimate capacity
+- **Refinement**: Groom stories before each sprint (not all quarter stories pointed up front)
+- **Acceptance criteria**: Clear and crisp to avoid guessing game for developers
+- **Sprint cadence**: Daily standups, end-of-sprint showcases with product owner acceptance
+
+## Decisions Made
+
+- Strong candidate for abbreviated interview loop
+- Need to coordinate TA engagement
+
+## Action Items
+
+### For Me
+- [ ] Work with TA to set up abbreviated interview loop for Ravi Kumar Kotha ^task-20260403-003
+
+### For Others
+- [ ] @TA: Schedule remaining panel interviews for Ravi
+
+## Pillar Assignment
+
+Engineering Organization
+
+Rationale: Hiring manager interview focused on building autonomous, high-performing engineering teams with modern practices.
+
+---
+
+## Raw Content
+
+<details>
+<summary>Transcript (14,598 words)</summary>
+
+So I went to high school after baby's high school and I went to UC Davis for a little while...
+
+[Full transcript truncated for length]
+
+</details>
+
+---
+*Processed by Dex Meeting Intel (API source)*

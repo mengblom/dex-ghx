@@ -1,0 +1,14 @@
+{
+  "id": "6e1fd19f-49fa-4065-bf38-ecca29f08630",
+  "title": "Interview: Alex Nyffeler for Principal Software Engineer - Data,  Data Architecture, AWS, Full stack or Backend",
+  "createdAt": "2026-04-01T19:00:51.429Z",
+  "updatedAt": "2026-04-01T19:31:09.194Z",
+  "notes": "### Candidate Background — Alex Nyffeler\n\n- ~10 years in SCADA/industrial control systems (VB.NET, client-server, networking, HMI, databases)\n- Moved into business/finance/manufacturing domains to gain cloud, Python, and modern framework experience\n- Most recent substantive role: Staff Engineer at Northrop Greyson, ~30-person data engineering team\n\n- Reported to Director of Data Engineering\n- Left due to layoff — new CTO cut two or three departments simultaneously\n- Current role: short-term contract (CDC work in SQL Server)\n\n### Technical Depth\n\n- Consistent strength throughout career: SQL/relational databases (T-SQL, SQL Server, Oracle, SAP)\n- Other DB experience: MongoDB (JSON/message storage at PwC, Azure migration), Postgres, Redis, OPC historian (SCADA)\n- ETL/streaming: Kafka (~20 topics), Spark Streaming, Databricks, batch and near-real-time CDC patterns\n- Cloud: evaluated Snowflake, Databricks, AWS, Azure, Palantir for Northrop — team selected Databricks on AWS\n\n- Migration: EC2/SQL Server → medallion architecture on Delta Lake\n- Used OpenShift, Docker, Kubernetes for containerised Python ETL deployment\n- API/integration: built generic adapter library covering SOAP, OAuth 2, ODBC, rate-limiting, batching (Salesforce, SAP)\n- UI: designed Streamlit standards (button, table, styling) for internal data entry tools\n- Self-described core strength: programming and troubleshooting across languages (Python, Java, C, T-SQL)\n\n- Less interested in physical infrastructure/networking\n\n### Fit Signals\n\n- Aligns well with GHX’s stated gap: lacks a bridge between DBA expertise and application engineering\n- Experience leading cloud platform evaluations maps to GHX’s architecture decision-making needs\n- Prototyping-first approach: builds core engine himself, onboards team incrementally — relevant to monolith decomposition work\n- Stakeholder communication: factory acceptance testing, roadmap definition, managing conflicting requirements across teams\n- Mentorship track record: office hours, code review, mentorship program design at Northrop\n- Showed genuine interest in the monolith-to-microservices challenge; asked thoughtful questions about cross-domain standards conflicts\n- No Google Cloud experience\n\n### Next Steps\n\n- Mårten Engblom\n\n- Decide on next steps within the next few days\n- Notify Alex on how to move forward\n\nChat with meeting transcript: https://notes.granola.ai/t/24bb867b-94f0-408a-884c-e093ac4185a2",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

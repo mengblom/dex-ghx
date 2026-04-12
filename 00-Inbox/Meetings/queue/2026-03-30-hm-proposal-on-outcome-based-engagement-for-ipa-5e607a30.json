@@ -1,0 +1,14 @@
+{
+  "id": "5e607a30-aaa0-47f4-b186-04044db0e4ef",
+  "title": "HM proposal on outcome based engagement for IPA",
+  "createdAt": "2026-03-30T14:32:56.602Z",
+  "updatedAt": "2026-03-30T16:32:28.265Z",
+  "notes": "### Happiest Minds Proposal Overview\n\n- Fixed-fee outcome-based engagement for GHX’s in-house LLM development\n- HM will deliver complete solution using Claude and latest AI tools\n- GHX retains platform ownership and IP\n- Tech guidance from GHX, delivery by HM team\n- Production-grade engineering ready for first-time deployment\n\n### Two Development Approaches\n\n- **Approach 1**: Build core IDP capability from ground up\n\n- 8-9 months timeline\n- Complete GHX-specific implementation\n- **Approach 2**: Leverage existing reusable components\n\n- 6-7 months timeline\n- 75-80% component reuse from HM’s existing platform\n- Pre-built before GHX POC work\n\n### Technical Architecture\n\n- Three-layer system design:\n\n1. **IDP Component Layer** (80% reusable)\n\n- Document pre-processing and classification\n- OCR/ICR extraction engine using hybrid LLM approach\n- Multi-step validation framework (7 validation layers)\n2. **Exchange System Integration**\n\n- Orchestrates document flow\n- Reuses existing adapters and business rules\n- Leverages EDI transformation logic\n3. **Human-in-the-Loop Interface**\n\n- Visualization for app support team\n- Feedback mechanism for continuous improvement\n\n### Existing Capabilities & Accuracy\n\n- Current touchless processing: 60%\n- Field-level accuracy: 99.2-99.4%\n- Multi-model processing approach\n- 4-8 hours for LLM replacement/retraining\n- MLOps process for continuous model improvement\n\n### Team & Knowledge Transfer\n\n- Chief architect: Money (familiar to GHX)\n- Mix of known team members and new AI specialists\n- Transparent development approach with code access\n- Demo-driven development throughout project\n- Claude Code agent for skill documentation and knowledge retention\n\n### Timeline & Migration Considerations\n\n- 6-7 months to Version 1.0 with 2-3 pilot customers\n- Post-development migration timeline depends on:\n\n- Business rules complexity per provider-supplier combination\n- Customer document classification and processes\n- Sequential UIPath retirement possible to reduce license costs\n- Migration planning requires detailed customer complexity analysis\n\n### Next Steps\n\n- GHX internal discussions on approach selection\n- HM team (Ramesh, Suresh, Money) to prepare detailed migration timeline\n- Decision needed on ground-up vs. component reuse approach\n\nChat with meeting transcript: https://notes.granola.ai/t/b205e2f0-786b-4cbb-9c88-cd9021956f15",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

@@ -1,0 +1,14 @@
+{
+  "id": "7ba3a85f-9e92-48ef-ae2f-3dcc60be2149",
+  "title": "Engineering Manager Expectations for AI - Mandatory",
+  "createdAt": "2026-03-30T16:32:33.604Z",
+  "updatedAt": "2026-03-30T16:44:31.828Z",
+  "notes": "### AI Fluency Expectation for Engineering Managers\n\n- Leaders must become personally fluent with AI tools\n- Tools should become integral to daily work, not just team directives\n- Apply AI lens to all activities:\n\n- Better communication\n- Improved meeting leadership\n- Team progress tracking\n- Personal example: Email clarity significantly improved using AI\n\n### Team Training Responsibility\n\n- Managers actively responsible for team AI learning\n- Integration required in all meetings and one-on-ones\n- Must know each team member’s current AI skill level\n- Provide ready resources and identify help opportunities\n- Company building resource wiki page for managers\n- Cannot delegate to external training (Team Jarvis) alone\n\n### Adoption and Impact Metrics Ownership\n\n- Target: 80% of direct reports actively using AI tools by end of month\n- Manager responsibility to:\n\n- Track who is/isn’t using AI effectively\n- Remove adoption blockers\n- Measure concrete improvements from AI adoption\n- Impact examples vary by team:\n\n- Increased throughput\n- Reduced story completion time (month+ stories completed in 4 days)\n- Must compare against historical data for meaningful metrics\n\n### Monthly Team Reporting\n\n- Email monthly digest to director and Team Jarvis\n- Include both wins and struggles with AI adoption\n- Helps spread successful practices across organization\n- Serves as team PR for AI commitment\n- Suggested approach: Keep running markdown file, use AI to compile monthly email\n\n### AI-Native Hiring Standards\n\n- AI fluency assessment required in every interview\n- Apply to all roles across organization\n- Evaluate actual AI knowledge vs. ability to fake knowledge using AI\n- Consider live demonstrations (screen sharing Claude usage)\n- Look for hunger to learn AI if not already proficient\n\n### Next Steps\n\n- Wiki pages with Anthropic courses and certification links to be shared\n- Anthropic courses offer completion certificates for tracking\n- Managers encouraged to share relevant videos, courses, articles\n- Support available for developing team-specific impact metrics\n\nChat with meeting transcript: https://notes.granola.ai/t/5dffa883-7e5a-4406-8853-26053f279792",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

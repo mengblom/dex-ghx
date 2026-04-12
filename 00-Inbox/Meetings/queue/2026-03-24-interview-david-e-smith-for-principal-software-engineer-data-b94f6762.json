@@ -1,0 +1,14 @@
+{
+  "id": "b94f6762-7631-437f-9dbb-f676eb7542ba",
+  "title": "Interview: David E. Smith for Principal Software Engineer - Data,  Data Architecture",
+  "createdAt": "2026-03-24T19:10:55.986Z",
+  "updatedAt": "2026-03-24T23:47:54.004Z",
+  "notes": "### Candidate Background & Experience\n\n- Data engineering consultant since 2019, running own company focused on data and AI\n- Previous roles: CTO at Reclaim Health, tech lead/management positions\n- Healthcare data platform experience (2016+)\n\n- Built platform for pharmaceutical companies like Eli Lilly\n- Processed high-velocity sensor data for clinical trials\n- Wrapped Apache Spark before Databricks matured\n- Major data migrations: legacy warehouses → lakehouse/Databricks\n\n- SRAM bicycle manufacturing: consolidated ad-hoc reports with different “bike” definitions\n- Standardized data models across use cases\n\n### Technical Expertise & Database Selection Framework\n\n- Database selection approach:\n\n1. Analytical (OLAP) vs transactional needs\n2. Response time requirements\n3. Data structure variability\n- Relational databases for well-defined business entities with low variability\n- NoSQL (DynamoDB, MongoDB) for semi-structured, variable documents\n- PostgreSQL preference: open source, AWS support, full SQL standard implementation\n- Limited MongoDB experience, primarily uses DynamoDB for performance/auto-scaling\n\n### Recent AI/ML Projects\n\n- Healthcare cost prediction model\n\n- Built feature computer accepting CSV/Excel rules from domain experts\n- Scaled from small spreadsheet to ~400 features without workflow changes\n- Enabled non-technical stakeholders to contribute without coding\n- Multi-agent database interaction system\n\n- Natural language to SQL queries for large schemas (hundreds of tables)\n- Self-contained architecture for small educational company\n- Built custom tracing/feedback collection (pre-modern orchestration tools)\n- Databricks Genie integration with business workflow agents\n\n### Role Discussion & Company Context\n\n- New role filling gap between DBA and application engineering\n- Company modernizing: pulling consultants/outsourcing in-house\n- Heavy hiring across application teams (mix of new hires and 15-year veterans)\n- Data science function exists separately, touches this role for data pipeline optimization\n- Current challenges: MongoDB-heavy legacy architecture, Snowflake warehouse integration\n- AI investment: unlimited cloud/tool access, multiple product POCs including document understanding\n\nChat with meeting transcript: https://notes.granola.ai/t/e63e7a84-9b0f-4aff-b065-f616f17dcdd9",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

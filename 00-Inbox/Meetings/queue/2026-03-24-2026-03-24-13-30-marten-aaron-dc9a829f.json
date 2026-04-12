@@ -1,0 +1,14 @@
+{
+  "id": "dc9a829f-cded-4a5b-8e3c-a88904f42ade",
+  "title": "2026-03-24 13.30 Marten  Aaron",
+  "createdAt": "2026-03-24T19:39:44.388Z",
+  "updatedAt": "2026-03-24T23:48:52.857Z",
+  "notes": "### Aaron’s Onboarding & Role Alignment\n\n- New hire joining exchange team focused on AI enablement and developer platform\n- Background: Previously built similar platforms, experienced with migrations (BitBucket to GitHub, standardized CI/CD)\n- Cautious approach: Avoiding jumping into “easy” tasks that aren’t core responsibilities\n- Access pending: GitHub, AWS, Bamboo - blocking full productivity\n\n### Organizational Dynamics & Team Structure\n\n- Multiple “solar systems” emerging around different leaders\n\n- Greg Wilson: Wants EA as DevSecOps function for software engineering\n- Mark: Focused on software architecture, expects infrastructure handled elsewhere\n- Eric: Leading Jarvis AI initiatives\n- Potential personality conflicts anticipated as teams interact more\n- Need for better coordination between overlapping functions\n\n### Database & Infrastructure Challenges\n\n- Atlas migration performance issues driving costly solutions\n\n- Migrating from 1 cluster to 4 clusters in some cases\n- Performance environment mirrors prod (48x instances, full database clusters)\n- 2-3 week release cycle includes performance testing that rarely catches real issues\n- DBA team operates in silos\n\n- Provides connection strings but limited ongoing optimization\n- No application-level database scrutiny\n- Reactive approach to performance issues\n\n### Development Platform Strategy\n\n- Monorepo migration approach: Focus on one service at a time\n- Each API team (transaction, user, org) has dedicated engineers and backlogs\n- Embed with one team, build skills, then scale to 2-3 services simultaneously\n- Standardization challenges: Multiple IaC tools in use (Terraform, CDK, Crossplane)\n\n- Pulumi expected to appear soon\n- Need collective agreement on technology direction\n\n### AI Enablement & Knowledge Sharing\n\n- Current Jarvis working group meetings too high-level (CTO org-wide)\n- Proposal: Internal newsletter for exchange team\n\n- Weekly/bi-weekly cadence\n- Cover AI, security, operations, infrastructure topics\n- Bridge knowledge gaps across different technology areas\n- Aaron meeting with Eric tomorrow to discuss collaboration\n\n### Cost Optimization Opportunities\n\n- Massive AWS spending with limited oversight\n- Performance environment equivalent to prod represents significant waste\n- Potential for major savings through architecture improvements\n\n- Example: Moving off MongoDB for eventing\n- Goal: Demonstrate measurable cost reductions (e.g., team spending $15k/month reduced to $5k)\n\n### \n\nChat with meeting transcript: https://notes.granola.ai/t/e8ad076d-9fac-4934-a2b3-5dd1f9b15397",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

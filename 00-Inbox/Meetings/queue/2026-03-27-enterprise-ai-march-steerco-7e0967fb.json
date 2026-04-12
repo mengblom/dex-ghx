@@ -1,0 +1,14 @@
+{
+  "id": "7e0967fb-e970-49d2-8d52-6254434244c1",
+  "title": "Enterprise AI March Steerco",
+  "createdAt": "2026-03-27T18:00:50.685Z",
+  "updatedAt": "2026-03-27T18:24:09.545Z",
+  "notes": "### IPA Platform Migration to Claude AI\n\n- Q1 target of 30,000 hit “by skin of teeth” - Q2 at risk\n- UiPath platform not scaling - constant workarounds needed\n- Shifting focus from UiPath maintenance to Claude AI native solution\n\n- Keep UiPath running for existing customers (no negative impact)\n- Reallocate resources from volume expansion to Claude development\n- Target first source volume as initial migration candidates\n- Timeline aggressive - aiming for production use within ~1 month\n- Parallel path approach - migrate incrementally rather than waiting until 2027\n- Leveraging Veritas surge funding for resource backup\n\n### Enterprise AI Financial Impact\n\n- Updated enterprise AI scope: $8.7M hard cost run rate savings\n- Largest AI opportunity on current docket\n- Incremental to existing $6.2M projections\n- IPA financial projections (0.4 in '27, estimates in '28) being pulled out to avoid double counting\n- ROI driven by competitive pressure - customers building own solutions\n\n### Knowledge Management Program\n\n- Federated approach across all repositories\n- Started with CX, expanding enterprise-wide\n- Centralized governance with department-specific committees\n- Focus on AI-readable data formatting (not human-readable)\n- Crawl-walk-run maturity model following Gartner five pillars\n\n- Customer Care and Social Delivery teams leading implementation\n- Nate, Barbara, Jenny, Jill in Learning & Education showing strong progress\n- Document metadata standards include audience permissions and status levels\n\n### Resource Allocation & Timeline\n\n- All-hands approach starting Monday\n- Curtis and team confident on resourcing despite recent approval\n- Deep dive sessions planned for next 2 weeks\n- Curtis and Eric dedicating significant time during Hyderabad trip\n- Need quarterly targets for each knowledge management team\n- Consulting team to be added to knowledge management tracking\n\n### Next Steps\n\n- Define work lanes and resource allocation by Monday\n- Validate technical approach through sprint methodology\n- Add target completion dates for knowledge management by department\n- Include Consulting in knowledge management program\n- Produce thesis document with timeline and risk mitigation strategies\n\nChat with meeting transcript: https://notes.granola.ai/t/19193a86-a85f-4251-83a3-a6c70345951e",
+  "transcript": "",
+  "participants": [
+    "Mårten Engblom"
+  ],
+  "company": "",
+  "duration": 5,
+  "source": "api"
+}

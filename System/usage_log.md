@@ -20,10 +20,10 @@
 ## Meeting Workflows (7 features)
 
 - [ ] Meeting prep (`/meeting-prep`)
-- [ ] Meeting processing (`/process-meetings`)
+- [x] Meeting processing (`/process-meetings`)
 - [ ] Commitment scan (`/commitment-scan`)
 - [ ] Person page created
-- [ ] Person page updated
+- [x] Person page updated
 - [ ] Company page created
 - [ ] Granola connected
 
