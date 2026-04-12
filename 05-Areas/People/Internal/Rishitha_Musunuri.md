@@ -8,7 +8,7 @@ internal: true
 [Add context about Rishitha Musunuri]
 
 ## Meetings
-- [[2026-03-05 - Exchange Recruiting - Weekly Team Meeting]]
+- [[2026-03-05 09.01 - Exchange Recruiting - Weekly Team Meeting]]
 
 ## Related Projects
 

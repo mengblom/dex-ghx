@@ -1,48 +1,42 @@
-# Resources
+# Resources - Living Knowledge Base
 
-Reference material you consult but aren't actively working on.
+This folder contains **enduring knowledge** distilled from active work, meetings, and correspondence. Unlike projects (which are time-bound) or archives (which are historical), Resources is a **continuously updated** institutional memory.
 
-## Subfolders
+## Purpose
 
-- **Learnings/** — Compound knowledge organized by topic
-- **Dex_System/** — Documentation about how Dex works
-- **Quarterly_Reviews/** — Quarterly reflection and strategic reviews
+Resources serves as your "second brain" - the knowledge that informs decision-making across projects, quarters, and years. It should be consulted when starting new initiatives and updated as projects reveal insights.
 
-## What Goes Here
+## Maintenance Pattern
 
-Reference material that:
-- You'll consult repeatedly
-- Provides context for decisions
-- Doesn't fit in a specific project or area
-- Has lasting value beyond current work
+Resources should be **actively maintained**, not just a static archive:
 
-## Examples
+1. **Extract from Projects** - As projects progress, extract architectural decisions, strategy documents, and lessons learned into Resources
+2. **Synthesize from Meetings** - After important meetings, update relevant Resource documents with new insights or decisions
+3. **Distill from Correspondence** - Key information from emails and memos should be extracted and organized topically
+4. **Update, Don't Duplicate** - When you learn something new, update the existing Resource document rather than creating a new version
 
-- **Learnings** — Frameworks, mental models, lessons learned
-- **Documentation** — System guides, how-tos, process docs
-- **Quarterly Reviews** — Strategic reflections and quarterly retrospectives
-- **Research** — Industry research, competitive analysis
-- **Policies** — Company policies, guidelines
+## Current Structure
 
-**Note:** Templates are stored in `System/Templates/` for easy access during file creation.
+### GHX_Exchange/
+Strategic and architectural knowledge about the GHX Exchange platform:
+- Vision documents (North Star, transformation strategy)
+- Architecture principles and decisions
+- Team charters and operating models
+- Ongoing challenges and improvement areas
 
-## vs. Archives
+### Dex_System/
+Technical documentation for the Dex knowledge management system itself.
 
-**Resources** = you actively reference this  
-**Archives** = historical record, consulted rarely
+## Adding New Resources
 
-If you haven't looked at something in 6+ months, consider archiving it.
+When creating new Resource documents:
+- Use descriptive, stable names (avoid dates unless documenting a point-in-time snapshot)
+- Include a "Last Updated" date at the top
+- Cross-link to related projects, people, and other Resources
+- Write for your future self - assume you'll read this months or years later
 
-## Workflow
+## Review Cadence
 
-Content flows here from:
-- **Weekly reviews** → Learnings/
-- **Project completion** → Extract learnings and frameworks
-- **Career tracking** → Frameworks and mental models
-
-## Organization
-
-Organize by topic or theme:
-- `Leadership_Principles.md`
-- `Product_Strategy_Framework.md`
-- `Technical_Architecture_Patterns.md`
+- **Weekly:** Check if active projects have generated knowledge worth extracting
+- **Monthly:** Update strategic documents based on accumulated insights
+- **Quarterly:** Review all Resources for staleness and consolidation opportunities

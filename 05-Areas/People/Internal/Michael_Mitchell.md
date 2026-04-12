@@ -8,7 +8,7 @@ internal: true
 [Add context about Michael Mitchell]
 
 ## Meetings
-- [[2026-03-03 - Hiring (JDs, Interview Pools etc.)]]
+- [[2026-03-03 17.15 - Hiring (JDs, Interview Pools etc.)]]
 
 ## Related Projects
 

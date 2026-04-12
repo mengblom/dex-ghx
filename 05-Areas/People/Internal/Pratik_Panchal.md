@@ -8,7 +8,7 @@ internal: true
 [Add context about Pratik Panchal]
 
 ## Meetings
-- [[2026-04-06 - 1-on-1 with Pratik]]
+- [[2026-04-06 15.44 - 1-on-1 with Pratik]]
 
 ## Related Projects
 

@@ -1,33 +1,39 @@
-# Inbox
+# Inbox - Temporary Capture Zone
 
-Temporary holding area for orphaned files that need routing.
+The Inbox is for **unprocessed** items only. After processing, items move to their permanent homes.
 
-## What Goes Here
+## Structure
 
-Standalone files that arrive without context:
-- Screenshots you want to file later
-- PDFs or exports that need a home
-- Files forwarded from email or other tools
+### Meetings/
+**Unprocessed meeting notes** - newly captured, not yet formatted or analyzed.
 
-## Primary Capture is Conversational
+**After processing:**
+1. Format and add context
+2. Extract knowledge to Resources/Projects/Person pages  
+3. Move to `07-Archives/Meetings/YYYY-MM/`
 
-Don't use this folder for day-to-day capture. Just tell Claude things:
+**Naming convention:** `YYYY-MM-DD HH.mm - Meeting Subject.md`
 
-```
-You: "Sarah worried about timeline but interested in Q2 pilot"
-Claude: "Add to Sarah's person page and Q2 Planning project?"
-You: "Yes"
-```
+### Ideas/
+Quick thoughts and ideas that haven't been organized yet.
 
-The system routes intelligently based on your Week Priorities and Goals.
+**After processing:**
+- Strategic ideas → `06-Resources/`
+- Project-specific → `04-Projects/[project]/`
+- Feature requests → Product tracking system
 
-## When to Use `/triage`
+### Daily_Plans/
+Today's planning notes (if you prefer inbox workflow over direct `System/` storage).
 
-Run `/triage` periodically to:
-- Route standalone files in this folder
-- Find scattered `- [ ]` tasks across notes
-- Clean up orphaned items
+---
 
-## Inbox Zero
+## Processing Rules
 
-Aim to keep this folder empty. Files here are exceptions, not the norm.
+**Inbox should be empty regularly** - ideally daily, at minimum weekly.
+
+Items that sit in Inbox for >7 days are either:
+- Not important (delete or move to someday/maybe)
+- Blocked (document the blocker)
+- Need clarification (ask for it)
+
+**Don't let Inbox become a dumping ground.**

@@ -8,7 +8,7 @@ internal: true
 [Add context about Michael Knarr]
 
 ## Meetings
-- [[2026-03-10 - Audit DB Migration Recommendations - Finalize]]
+- [[2026-03-10 14.50 - Audit DB Migration Recommendations - Finalize]]
 
 ## Related Projects
 

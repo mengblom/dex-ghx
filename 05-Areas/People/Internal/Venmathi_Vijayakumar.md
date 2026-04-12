@@ -8,7 +8,7 @@ internal: true
 [Add context about Venmathi Vijayakumar]
 
 ## Meetings
-- [[2026-03-04 - Event Platform Team - Brainstorming Session and Sprint Planning]]
+- [[2026-03-04 13.22 - Event Platform Team - Brainstorming Session and Sprint Planning]]
 
 ## Related Projects
 
