@@ -19,17 +19,17 @@ Your task backlog organized by priority.
 <!-- Standard priority items -->
 
 - [ ] **Meet with Eric and Daniel on Monday to finalize dependency mapping approach** — Roadmap acceleration for automation/content/payments [[^task-20260403-001]] #ai_native_development
-  - Source: [[2026-04-03/2026-04-03-13-05-jarvis-steerco]]
+  - Source: [[2026-04-03 13.06 - Jarvis Steerco]]
 - [ ] **Review tech debt one-slide summary from Bharata/Curtis** — Ahead of Thursday meeting [[^task-20260403-002]] #platform_architecture
-  - Source: [[2026-04-03/2026-04-03-13-05-jarvis-steerco]]
+  - Source: [[2026-04-03 13.06 - Jarvis Steerco]]
 - [ ] **Work with TA to set up abbreviated interview loop for Ravi Kumar Kotha** — Manager, Software Engineering role [[^task-20260403-003]] #engineering_org
-  - Source: [[2026-04-03/interview-ravi-kumar-kotha-for-manager-software-engineering]]
+  - Source: [[2026-04-03 12.01 - Interview Ravi Kumar Kotha]]
 - [ ] **Complete intake form and provide interview panel for principal role** — Principal Software Engineer/Architect [[^task-20260326-001]] #engineering_org
-  - Source: [[2026-03-26/exchange-recruiting-weekly-team-meeting]]
+  - Source: [[2026-03-26 14.02 - Exchange Recruiting Weekly Team Meeting]]
 - [ ] **Get Sandy's approval for Principal Architect title** — vs Principal Software Engineer [[^task-20260326-002]] #engineering_org
-  - Source: [[2026-03-26/exchange-recruiting-weekly-team-meeting]]
+  - Source: [[2026-03-26 14.02 - Exchange Recruiting Weekly Team Meeting]]
 - [ ] **Review quarterly planning outcomes and org change implications** — Product team strategy [[^task-20260324-001]] #engineering_org
-  - Source: [[2026-03-24/quarterly-planning-and-org-change-strategy-for-product-team]]
+  - Source: [[2026-03-24 21.12 - Quarterly Planning Product Team]]
 - [ ] **Continue discussion on MSOT/PriceSync in-person Wednesday in Hyderabad** — Deep dive with IPA team [[^task-20260410-001]] #platform_architecture
   - Source: [[2026-04-10/IPA_Introduction_to_MSOT_and_PriceSync_workflows]]
 - [ ] **Explore Nuvia team technical architecture meeting with Scott** — Understand legacy content solution architecture [[^task-20260410-002]] #platform_architecture

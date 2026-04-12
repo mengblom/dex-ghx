@@ -216,12 +216,13 @@ function buildMeetingContent(meeting) {
   return content;
 }
 
-function slugify(text) {
-  return text
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-|-$/g, '')
-    .slice(0, 60);
+function sanitizeTitle(title) {
+  // Remove or replace characters not allowed in filenames
+  return title
+    .replace(/[:/\\?*|"<>]/g, ' ')  // Replace illegal filename chars with space
+    .replace(/\s+/g, ' ')            // Collapse multiple spaces
+    .trim()
+    .slice(0, 80);                    // Limit length
 }
 
 function generateTaskId() {
@@ -233,16 +234,24 @@ function generateTaskId() {
 }
 
 function createMeetingNote(meeting, analysis, profile, pillars) {
-  const date = meeting.createdAt.split('T')[0];
-  const time = meeting.createdAt.split('T')[1]?.slice(0, 5) || '00:00';
+  // Convert UTC timestamp to local timezone
+  const meetingDate = new Date(meeting.createdAt);
+  const year = meetingDate.getFullYear();
+  const month = String(meetingDate.getMonth() + 1).padStart(2, '0');
+  const day = String(meetingDate.getDate()).padStart(2, '0');
+  const hours = String(meetingDate.getHours()).padStart(2, '0');
+  const minutes = String(meetingDate.getMinutes()).padStart(2, '0');
+
+  const date = `${year}-${month}-${day}`;
+  const time = `${hours}.${minutes}`;
 
   const outputDir = path.join(MEETINGS_DIR, date);
   if (!fs.existsSync(outputDir)) {
     fs.mkdirSync(outputDir, { recursive: true });
   }
 
-  const slug = slugify(meeting.title);
-  const filename = `${slug}.md`;
+  const sanitizedTitle = sanitizeTitle(meeting.title || 'Untitled Meeting');
+  const filename = `${date} ${time} - ${sanitizedTitle}.md`;
   const filepath = path.join(outputDir, filename);
 
   // Extract pillar from analysis
@@ -311,7 +320,7 @@ ${meeting.transcript.slice(0, 5000)}${meeting.transcript.length > 5000 ? '\n\n[T
 
   return {
     filepath,
-    wikilink: `00-Inbox/Meetings/${date}/${slug}.md`
+    wikilink: `00-Inbox/Meetings/${date}/${filename}`
   };
 }
 
