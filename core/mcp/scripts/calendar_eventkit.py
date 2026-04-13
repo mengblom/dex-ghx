@@ -17,8 +17,14 @@ import json
 import sys
 import threading
 from datetime import datetime, timedelta, timezone
+from pathlib import Path
 
 import EventKit
+
+# Add repo root to path before importing core modules
+_repo_root = str(Path(__file__).parent.parent.parent.parent)
+if _repo_root not in sys.path:
+    sys.path.append(_repo_root)
 
 from core.paths import RESOURCES_DIR, VAULT_ROOT
 

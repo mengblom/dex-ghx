@@ -69,5 +69,19 @@
         ]
       }
     ]
-  }
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "calendar-mcp",
+    "work-mcp",
+    "granola-mcp",
+    "career-mcp",
+    "dex-improvements-mcp",
+    "resume-mcp",
+    "update-checker",
+    "onboarding-mcp",
+    "dex-analytics",
+    "session-memory",
+    "qmd"
+  ]
 }
