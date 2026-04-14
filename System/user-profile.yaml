@@ -32,6 +32,11 @@ company_size: "enterprise"  # options: startup (1-100), scaling (100-1000), ente
 # Multiple domains: "pendo.io, pendo.com"
 email_domain: "ghx.com"
 
+# Calendar Configuration
+calendar:
+  # Your primary work calendar name (as it appears in Calendar.app)
+  work_calendar: "mengblom@ghx.com"
+
 # Communication Preferences
 # How the AI adapts its tone and language when working with you
 communication:
