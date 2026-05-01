@@ -1,0 +1,3 @@
+- Need to formalize the name of my org - Should probably be Automation; it is already established, makes sense since the scope is broader than Exchange etc. Need to vet this with Ramesh, Daniel and Mike.
+- Need to schedule regular staff meetings
+- Thinking about regular Automation Leaders meeting as well - hopefully that would releive Ramesh, Daniel and Mike from having their own staff meetings (or at least not as often)

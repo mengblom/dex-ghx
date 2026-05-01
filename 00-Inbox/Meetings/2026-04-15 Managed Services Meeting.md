@@ -1,0 +1,15 @@
+- Quick demo of Manged Sercices Portal
+	- Orders
+	- Pricing
+- 
+- Future Roadmap
+	- Exchange Managed Services (EMS)
+		- This was "promised" to be finished by December 2026
+		- Rammi is concerned that this deadline will not be met
+- Technical
+	- Managed Services Portal is in its own depo
+	- Dependency on BT/BD database
+	- Also dependencies on APIs in CCX, CoreX, Reg Center, ...
+	- Claude Code adoption is held back by Github migration (Bitbucket MCPs are poor etc.)
+	- 90% test coverage by automated Tandoori - currently being migrated to Playwright
+		- Talked to the team about the test pyramid, the team owns quality, and it is up to them to decide how - i.e. if they want to decrease automated UI test coverage, that is up to them

@@ -1,0 +1,8 @@
+- Quarterly Planning
+	- I don't love how we are doing it
+	- Quarterly planning to this level of detail in software development is not very valuable - there is too much uncertainty that far out
+	- With that said, this is how we are operating as a company - a few things I want us to work on to make it less painful
+		- Planning should be done at a higher level than now - epics is too granular and detailed. Planning should be done at the initiative level - i.e. what initiatives are we prioritizing to make progress on this quarter
+		- We need to nail down the process around our tools - Jira and Aha, and make sure the integration is automated etc.
+- Hiring Process - how are things going? Any feedback?
+- Going to start architecture discussions - the goal is to spin this up at multiple levels, in all the teams, with this group etc. We need to make progress towards automomous teams, decouopled architecture, frequent deployments etc. a core tenant of everything we do.

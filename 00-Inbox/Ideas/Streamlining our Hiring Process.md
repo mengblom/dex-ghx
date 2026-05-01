@@ -1,3 +1,5 @@
+*Memo sent to all of Automation on 2026-02-23*
+
 All,
 
 We have a lot of hiring to do over the next few months - over 40 engineering roles across our US and India locations. To handle this volume effectively, we're making some tweaks to our hiring process.
